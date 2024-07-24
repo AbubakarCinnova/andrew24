@@ -35,9 +35,9 @@
                               <!-- logo begin -->
                               <div id="logo">
                                   <a href="<?php echo $base_url ?>">
-                                      <img class="logo-main" src="images/ac-logo.png" alt="">
-                                      <img class="logo-scroll" src="images/ac-logo.png" alt="">
-                                      <img class="logo-mobile" src="images/ac-logo.png" alt="">
+                                      <img class="logo-main" src="images/logo.webp" alt="">
+                                      <img class="logo-scroll" src="images/logo-black.webp" alt="">
+                                      <img class="logo-mobile" src="images/logo.webp" alt="">
                                   </a>
                               </div>
                               <!-- logo close -->
