@@ -30,7 +30,7 @@
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Discover</div>
                             <h1>Our Projects</h1>
                             <ul class="crumb">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li class="active">Projects</li>
                             </ul>
                         </div>
@@ -54,7 +54,7 @@
                 <div class="container">
                     <div class="row g-4">
                         <div class="col-lg-4 text-center">
-                            <a href="project-single.html" class="d-block hover">
+                            <a href="project-single.php" class="d-block hover">
                                 <div class="relative overflow-hidden rounded-20px">
                                     <div class="absolute start-0 w-100 abs-middle fs-36 text-white text-center">
                                         <i class="icofont-plus hover-scale-in-3"></i>
@@ -67,7 +67,7 @@
                         </div>
 
                         <div class="col-lg-4 text-center">
-                            <a href="project-single.html" class="d-block hover">
+                            <a href="project-single.php" class="d-block hover">
                                 <div class="relative overflow-hidden rounded-20px">
                                     <div class="absolute start-0 w-100 abs-middle fs-36 text-white text-center">
                                         <i class="icofont-plus hover-scale-in-3"></i>
@@ -80,7 +80,7 @@
                         </div>
 
                         <div class="col-lg-4 text-center">
-                            <a href="project-single.html" class="d-block hover">
+                            <a href="project-single.php" class="d-block hover">
                                 <div class="relative overflow-hidden rounded-20px">
                                     <div class="absolute start-0 w-100 abs-middle fs-36 text-white text-center">
                                         <i class="icofont-plus hover-scale-in-3"></i>
@@ -93,7 +93,7 @@
                         </div>
 
                         <div class="col-lg-4 text-center">
-                            <a href="project-single.html" class="d-block hover">
+                            <a href="project-single.php" class="d-block hover">
                                 <div class="relative overflow-hidden rounded-20px">
                                     <div class="absolute start-0 w-100 abs-middle fs-36 text-white text-center">
                                         <i class="icofont-plus hover-scale-in-3"></i>
@@ -106,7 +106,7 @@
                         </div>
 
                         <div class="col-lg-4 text-center">
-                            <a href="project-single.html" class="d-block hover">
+                            <a href="project-single.php" class="d-block hover">
                                 <div class="relative overflow-hidden rounded-20px">
                                     <div class="absolute start-0 w-100 abs-middle fs-36 text-white text-center">
                                         <i class="icofont-plus hover-scale-in-3"></i>
@@ -119,7 +119,7 @@
                         </div>
 
                         <div class="col-lg-4 text-center">
-                            <a href="project-single.html" class="d-block hover">
+                            <a href="project-single.php" class="d-block hover">
                                 <div class="relative overflow-hidden rounded-20px">
                                     <div class="absolute start-0 w-100 abs-middle fs-36 text-white text-center">
                                         <i class="icofont-plus hover-scale-in-3"></i>

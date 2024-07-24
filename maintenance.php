@@ -32,7 +32,7 @@
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
                             <h1>Maintenance</h1>
                             <ul class="crumb">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li class="active">Maintenance</li>
                             </ul>
                         </div>
@@ -46,7 +46,7 @@
             <!-- section close -->
 
             <div class="bg-color relative z-index-1000 mt-40 mb40">
-                <a href="contact.html">
+                <a href="contact.php">
                     <img src="images/svg/phone-calling-svgrepo-com.svg"
                         class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="">
                 </a>
@@ -56,10 +56,10 @@
                 <div class="container">
                     <div class="row g-5">
                         <div class="col-lg-3">
-                            <a href="installation.html" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
+                            <a href="installation.php" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
                                 <h4 class="mb-0">Installation</h4>
                             </a>
-                            <a href="repair.html" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
+                            <a href="repair.php" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
                                 <h4 class="mb-0">Repair</h4>
                             </a>
                             <a href="#" class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
@@ -205,7 +205,7 @@
                         </div>
 
                         <div class="col-lg-3 text-lg-end text-start">
-                            <a class="btn-main bg-color-2" href="contact.html">Schedule Appointment</a>
+                            <a class="btn-main bg-color-2" href="contact.php">Schedule Appointment</a>
                         </div>
                     </div>
                 </div>
