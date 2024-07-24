@@ -64,7 +64,7 @@
                                       </ul>
                                   </li>
                                   <li><a class="menu-item" href="about.php">About Us</a></li>
-                                  <li><a class="menu-item" href="projects.html">Projects</a></li>
+                                  <li><a class="menu-item" href="projects.php">Projects</a></li>
                                   <!--  <li><a class="menu-item" href="blog.html">Blog</a></li> -->
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>
                               </ul>
