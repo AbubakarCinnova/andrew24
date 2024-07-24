@@ -34,7 +34,7 @@
                           <div class="de-flex-col">
                               <!-- logo begin -->
                               <div id="logo">
-                                  <a href="index.html">
+                                  <a href="<?php echo $base_url ?>">
                                       <img class="logo-main" src="images/logo.webp" alt="">
                                       <img class="logo-scroll" src="images/logo-black.webp" alt="">
                                       <img class="logo-mobile" src="images/logo.webp" alt="">
@@ -44,7 +44,7 @@
                           </div>
                           <div class="de-flex-col header-col-mid">
                               <ul id="mainmenu">
-                                  <li><a class="menu-item" href="/">Home</a>
+                                  <li><a class="menu-item" href="<?php echo $base_url ?>">Home</a>
                                       <!--   <ul>
                                           <li><a class="menu-item" href="index.html">Homepage One</a></li>
                                           <li><a class="menu-item" href="homepage-2.html">Homepage Two</a></li>
