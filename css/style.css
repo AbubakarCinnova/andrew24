@@ -142,7 +142,8 @@ html {
 
 body {
   font-family: var(--body-font);
-  font-size: var(--body-font-size) font-weight: 400;
+  font-size: var(--body-font-size);
+  font-weight: 400;
   color: var(--body-font-color);
   padding: 0;
   line-height: 29px;
@@ -21227,6 +21228,16 @@ img {
   }
 }
 
+.logo-main {
+  width: 230px;
+  filter: invert(10) saturate(0) brightness(3.5);
+}
+
+.logo-scroll,
+.logo-mobile {
+  width: 210px;
+}
+
 
 @media (min-width: 1200px) {
   .container-timeline ul {
@@ -21245,15 +21256,4 @@ img {
   .container-timeline ul li::before {
     left: 0
   }
-
-}
-
-.logo-main {
-  width: 230px;
-  filter: invert(10) saturate(0) brightness(3.5);
-}
-
-.logo-scroll,
-.logo-mobile {
-  width: 210px;
 }
