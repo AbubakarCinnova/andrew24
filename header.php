@@ -1,3 +1,5 @@
+<?php $base_url  = "https://stage.reticlewebmarketing.com/andrew24"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 

@@ -44,7 +44,7 @@
                           </div>
                           <div class="de-flex-col header-col-mid">
                               <ul id="mainmenu">
-                                  <li><a class="menu-item" href="index.html">Home</a>
+                                  <li><a class="menu-item" href="/">Home</a>
                                       <!--   <ul>
                                           <li><a class="menu-item" href="index.html">Homepage One</a></li>
                                           <li><a class="menu-item" href="homepage-2.html">Homepage Two</a></li>
@@ -56,22 +56,22 @@
                                   </li>
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul>
-                                          <li><a class="menu-item" href="installation.html">Installation</a></li>
-                                          <li><a class="menu-item" href="repair.html">Repair</a></li>
-                                          <li><a class="menu-item" href="maintenance.html">Maintenance</a></li>
+                                          <li><a class="menu-item" href="installation.php">Installation</a></li>
+                                          <li><a class="menu-item" href="repair.php">Repair</a></li>
+                                          <li><a class="menu-item" href="maintenance.php">Maintenance</a></li>
                                           <!--  <li><a class="menu-item" href="pricing-plans.html">Pricing Plans</a></li>
                                           <li><a class="menu-item" href="price-list.html">Price List</a></li> -->
                                       </ul>
                                   </li>
-                                  <li><a class="menu-item" href="about.html">About Us</a></li>
+                                  <li><a class="menu-item" href="about.php">About Us</a></li>
                                   <li><a class="menu-item" href="projects.html">Projects</a></li>
                                   <!--  <li><a class="menu-item" href="blog.html">Blog</a></li> -->
-                                  <li><a class="menu-item" href="contact.html">Contact</a></li>
+                                  <li><a class="menu-item" href="contact.php">Contact</a></li>
                               </ul>
                           </div>
                           <div class="de-flex-col">
                               <div class="menu_side_area">
-                                  <a href="contact.html" class="btn-main bg-color-2">Schedule Now</a>
+                                  <a href="contact.php" class="btn-main bg-color-2">Schedule Now</a>
                                   <span id="menu-btn"></span>
                               </div>
                           </div>
