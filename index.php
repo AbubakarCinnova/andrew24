@@ -1,8 +1,8 @@
 <?php include('header.php'); ?>
 
-<title>CoolAir — Air Conditioner & HVAC Repair Website Template</title>
+<title>Andrew Casey Technologies</title>
 
-<?php include('menu.php'); ?>
+
 
 </head>
 
@@ -17,6 +17,7 @@
         <!--   <div id="de-loader"></div> -->
         <!-- page preloader close -->
 
+        <?php include('menu.php'); ?>
 
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
