@@ -843,7 +843,8 @@
                                         <div
                                             class="h-100 padding60 sm-padding40 overflow-hidden position-relative text-light jarallax">
                                             <div class="spacer-double"></div>
-                                            <img src="images/background/3.webp" class="jarallax-img" alt="">
+                                            <img src="<?php echo $base_url ?>/images/background/3.webp"
+                                                class="jarallax-img" alt="">
                                             <div class="spacer-double"></div>
                                         </div>
                                     </div>
