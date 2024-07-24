@@ -833,7 +833,7 @@
             </section>
 
 
-            <section class="no-top relative pt40">
+            <section class=" relative ">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
