@@ -46,12 +46,12 @@
                               <ul id="mainmenu">
                                   <li><a class="menu-item" href="<?php echo $base_url ?>">Home</a>
                                       <!--   <ul>
-                                          <li><a class="menu-item" href="index.html">Homepage One</a></li>
-                                          <li><a class="menu-item" href="homepage-2.html">Homepage Two</a></li>
-                                          <li><a class="menu-item" href="homepage-3.html">Homepage Three</a></li>
-                                          <li><a class="menu-item" href="homepage-4.html">Homepage Four</a></li>
-                                          <li><a class="menu-item new" href="homepage-5.html">Homepage Five</a></li>
-                                          <li><a class="menu-item new" href="homepage-6.html">Homepage Six</a></li>
+                                          <li><a class="menu-item" href="index.php">Homepage One</a></li>
+                                          <li><a class="menu-item" href="homepage-2.php">Homepage Two</a></li>
+                                          <li><a class="menu-item" href="homepage-3.php">Homepage Three</a></li>
+                                          <li><a class="menu-item" href="homepage-4.php">Homepage Four</a></li>
+                                          <li><a class="menu-item new" href="homepage-5.php">Homepage Five</a></li>
+                                          <li><a class="menu-item new" href="homepage-6.php">Homepage Six</a></li>
                                       </ul> -->
                                   </li>
                                   <li><a class="menu-item" href="#">Services</a>
@@ -59,13 +59,13 @@
                                           <li><a class="menu-item" href="installation.php">Installation</a></li>
                                           <li><a class="menu-item" href="repair.php">Repair</a></li>
                                           <li><a class="menu-item" href="maintenance.php">Maintenance</a></li>
-                                          <!--  <li><a class="menu-item" href="pricing-plans.html">Pricing Plans</a></li>
-                                          <li><a class="menu-item" href="price-list.html">Price List</a></li> -->
+                                          <!--  <li><a class="menu-item" href="pricing-plans.php">Pricing Plans</a></li>
+                                          <li><a class="menu-item" href="price-list.php">Price List</a></li> -->
                                       </ul>
                                   </li>
                                   <li><a class="menu-item" href="about.php">About Us</a></li>
                                   <li><a class="menu-item" href="projects.php">Projects</a></li>
-                                  <!--  <li><a class="menu-item" href="blog.html">Blog</a></li> -->
+                                  <!--  <li><a class="menu-item" href="blog.php">Blog</a></li> -->
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>
                               </ul>
                           </div>
