@@ -48,7 +48,7 @@
                                                         <h3 class="slider-teaser mb-3">Solution for Comfort and
                                                             Reliability</h3>
                                                         <div class="spacer-10"></div>
-                                                        <a class="btn-main mb10 mb-3" href="contact.php">Book a
+                                                        <a class="btn-main mb10 mb-3" href="contact.html">Book a
                                                             Repair</a>
                                                     </div>
                                                 </div>
@@ -121,7 +121,7 @@
                                                         <h3 class="slider-teaser mb-3">Solution for Comfort and
                                                             Reliability</h3>
                                                         <div class="spacer-10"></div>
-                                                        <a class="btn-main mb10 mb-3" href="contact.php">Book a
+                                                        <a class="btn-main mb10 mb-3" href="contact.html">Book a
                                                             Repair</a>
                                                     </div>
                                                 </div>
@@ -207,7 +207,7 @@
                                 commodo
                                 minim commodo occaecat ut sint dolor mollit culpa excepteur magna pariatur.</p>
                             <div class="spacer-10"></div>
-                            <a class="btn-main wow fadeInUp" href="about.php">About Company</a>
+                            <a class="btn-main wow fadeInUp" href="about.html">About Company</a>
                         </div>
                     </div>
 
@@ -274,7 +274,7 @@
                                         and peace
                                         of mind for all your HVAC needs. </p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-light-trans" href="installation.php">Read more</a>
+                                    <a class="btn-main btn-light-trans" href="installation.html">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -293,7 +293,7 @@
                                         and peace
                                         of mind for all your HVAC needs. </p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-dark-trans" href="repair.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="repair.html">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -312,7 +312,7 @@
                                         and peace
                                         of mind for all your HVAC needs. </p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-dark-trans" href="maintenance.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="maintenance.html">Read more</a>
                                 </div>
                             </div>
 
@@ -429,7 +429,7 @@
                                             providing top-notch heating, ventilation, and air conditioning services
                                             tailored to
                                             your unique needs.</h2>
-                                        <a class="btn-main" href="contact.php">Schedule Now</a>
+                                        <a class="btn-main" href="contact.html">Schedule Now</a>
                                     </div>
                                     <div class="col-lg-4 text-center">
                                         <img src="images/team/1.webp" class="img-fluid rounded-10px wow scaleIn" alt="">
@@ -895,7 +895,7 @@
                         </div>
 
                         <div class="col-lg-3 text-lg-end text-start">
-                            <a class="btn-main bg-color-2" href="contact.php">Schedule Appointment</a>
+                            <a class="btn-main bg-color-2" href="contact.html">Schedule Appointment</a>
                         </div>
                     </div>
                 </div>

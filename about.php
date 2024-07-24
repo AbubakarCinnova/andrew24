@@ -29,7 +29,7 @@
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
                             <h1>About Us</h1>
                             <ul class="crumb">
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="index.html">Home</a></li>
                                 <li class="active">About Us</li>
                             </ul>
                         </div>
