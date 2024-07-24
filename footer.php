@@ -3,7 +3,8 @@
        <div class="container">
            <div class="row gx-5">
                <div class="col-lg-4 col-sm-6">
-                   <img src="images/logo.webp" alt="">
+                   <img src="images/ac-logo.png" style="width: 210px;
+    filter: invert(10) saturate(0) brightness(3.5);" alt="">
                    <div class="spacer-20"></div>
                    <p>We specialize in providing top-quality heating, ventilation, and air conditioning services
                        tailored to your unique requirements. Our skilled technicians are dedicated to delivering
