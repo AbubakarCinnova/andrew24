@@ -142,8 +142,7 @@ html {
 
 body {
   font-family: var(--body-font);
-  font-size: var(--body-font-size);
-  font-weight: 400;
+  font-size: var(--body-font-size) font-weight: 400;
   color: var(--body-font-color);
   padding: 0;
   line-height: 29px;
@@ -300,7 +299,7 @@ header.autoshow.scrollOn {
 }
 
 header.autoshow.scrollOff {
-  /* opacity: ; */
+  opacity: ;
   top: -120px;
 }
 
@@ -6236,7 +6235,7 @@ i.font60 {
 
 .ul-style-4 li {
   margin: 2px 0 2px 0;
-  /*  display: ; */
+  display: ;
   font-weight: 500;
 }
 
@@ -6869,8 +6868,9 @@ ol.ol-style-1 li::before {
 }
 
 .pricing-s2.text-light .top .price,
-.pricing-s2.text-white .top .price {
-  color: #ffffff;
+.pricing-s2.text-white .top .price,
+{
+color: #ffffff;
 }
 
 .pricing-s2 .top .price .currency {
@@ -11765,8 +11765,7 @@ footer .widget {
   border-color: #555;
 }
 
-.widget_tags li a:hover {
-  border-color: #eceff3;
+.widget_tags li a:hover border-color: #eceff3;
 }
 
 footer .widget {
@@ -12167,7 +12166,7 @@ i.bg-color-secondary {
 
 
 .de-step-s1 {
-  /*  overflow: ; */
+  overflow: ;
   position: relative;
   padding: 30px;
   height: 100%;
@@ -12295,7 +12294,8 @@ i.bg-color-secondary {
 
 
 .owl-carousel.no-hide .owl-stage-outer {
-  overflow: visible !important;
+  overflow: visible;
+  !important;
 }
 
 .c-item {
@@ -19562,7 +19562,7 @@ a.btn-slider:hover {
   margin: 0 6px;
   display: inline-block;
   zoom: 1;
-  display: inline;
+  *display: inline;
 }
 
 .testi-slider .flex-control-paging li a {
@@ -21227,16 +21227,6 @@ img {
   }
 }
 
-.logo-main {
-  width: 230px;
-  filter: invert(10) saturate(0) brightness(3.5);
-}
-
-.logo-scroll,
-.logo-mobile {
-  width: 210px;
-}
-
 
 @media (min-width: 1200px) {
   .container-timeline ul {
@@ -21254,5 +21244,3 @@ img {
 
   .container-timeline ul li::before {
     left: 0
-  }
-}
