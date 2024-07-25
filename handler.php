@@ -19,8 +19,8 @@ $validator->field('Email')->isEmail();
 $validator->field('Message')->maxLength(6000);
 
 
-/* $pp->requireReCaptcha();
-$pp->getReCaptcha()->initSecretKey('6LdW03QgAAAAADVT9qY1gFgKKXY9KBeGG_5X7wbm'); */
+$pp->requireReCaptcha();
+$pp->getReCaptcha()->initSecretKey('6LdW03QgAAAAADVT9qY1gFgKKXY9KBeGG_5X7wbm');
 
 
 $pp->sendEmailTo('amahboob@cinnova.com'); // ← Your email here
