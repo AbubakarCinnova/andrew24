@@ -1,9 +1,9 @@
-.logo-main {
+.logo-main,
+.logo-mobile {
     width: 230px;
     filter: invert(10) saturate(0) brightness(3.5);
 }
 
-.logo-scroll,
-.logo-mobile {
+.logo-scroll {
     width: 210px;
 }
