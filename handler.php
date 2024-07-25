@@ -20,7 +20,7 @@ $validator->field('Message')->maxLength(6000);
 
 
 $pp->requireReCaptcha();
-$pp->getReCaptcha()->initSecretKey('6LdW03QgAAAAADVT9qY1gFgKKXY9KBeGG_5X7wbm');
+$pp->getReCaptcha()->initSecretKey('6Le7_BcqAAAAAA_e0D-JBhumGAsVpKTNx72bCXVe');
 
 
 $pp->sendEmailTo('amahboob@cinnova.com'); // ← Your email here
