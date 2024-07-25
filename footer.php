@@ -28,7 +28,7 @@
                                    <li><a href="#">Our Services</a></li>
                                    <li><a href="#">Projects</a></li>
                                    <li><a href="#">About Us</a></li>
-                                   <li><a href="#">News</a></li>
+                                   <!-- <li><a href="#">News</a></li> -->
                                    <li><a href="#">Contact</a></li>
                                </ul>
                            </div>
@@ -75,7 +75,7 @@
                    <div class="col-md-12">
                        <div class="de-flex">
                            <div class="de-flex-col">
-                               Copyright 2024 - CoolAir by Designesia
+                               Copyright 2024 - Andrew Casey Technologies
                            </div>
                            <ul class="menu-simple">
                                <li><a href="#">Terms &amp; Conditions</a></li>
