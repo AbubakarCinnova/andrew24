@@ -98,7 +98,9 @@
                                 </div>
 
 
-                                <div class="g-recaptcha" data-sitekey="6LdW03QgAAAAAJko8aINFd1eJUdHlpvT4vNKakj6"></div>
+                                <div class="g-recaptcha" data-sitekey="6Le7_BcqAAAAAGdccR9kltzA40Cs07wKrOKMWlTl"
+                                    data-action="LOGIN"></div>
+
                                 <div id='submit' class="mt20">
                                     <input type='submit' id='send_message' value='Send Message' class="btn-main">
                                 </div>
