@@ -63,7 +63,7 @@
                                 <h4 class="mb-0">Repair</h4><i
                                     class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
                             </a>
-                            <a href="#" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
+                            <a href="maintenance.php" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
                                 <h4 class="mb-0">Maintenance</h4>
                             </a>
                         </div>
