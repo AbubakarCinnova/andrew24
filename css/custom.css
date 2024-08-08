@@ -49,7 +49,14 @@ li:hover>.sub-menu {
         background-size: 10px !important;
     }
 
-    .head-menu .sub-menu {
-        left: 10px;
+    #mainmenu li ul ul:not(.ul-list) {
+        margin-left: 199px !important;
+    }
+
+}
+
+@media (max-width:991px) {
+    header.header-mobile #mainmenu li>ul>li>span {
+        filter: invert(1);
     }
 }
