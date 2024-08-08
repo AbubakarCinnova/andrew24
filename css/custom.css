@@ -10,8 +10,6 @@
 
 
 
-/* Main Menu Styling */
-/* Main Menu Styling */
 
 /* Main Menu Styling */
 .main-menu {
@@ -25,74 +23,77 @@
     display: inline-block;
 }
 
-.menu-item {
+.menu-item,
+.submenu-title {
     display: block;
     padding: 10px 20px;
     text-decoration: none;
     color: #333;
     background-color: #f0f0f0;
-    position: relative;
 }
 
-.arrow {
-    margin-left: 10px;
-    font-size: 0.8em;
-}
-
-/* Mega Menu Styling */
-.mega-menu {
-    display: none;
+/* Submenu Styling */
+.submenu {
+    list-style: none;
     position: absolute;
     top: 100%;
     left: 0;
+    display: none;
+    /* Hide submenu by default */
     padding: 20px;
+    margin: 0;
     background-color: #ffffff;
     border: 1px solid #ccc;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     z-index: 1000;
-    width: 800px;
+    width: 600px;
     /* Adjust width as needed */
-    box-sizing: border-box;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-.mega-menu-column {
+/* Submenu Columns */
+.submenu li {
     float: left;
     width: 25%;
-    /* Adjust based on the number of columns */
+    /* Adjust width according to the number of columns */
     box-sizing: border-box;
-    padding-right: 20px;
+    padding-right: 10px;
 }
 
-.mega-menu-heading {
-    font-weight: bold;
+.submenu li a {
     color: #000;
-    text-decoration: none;
-    display: block;
-    margin-bottom: 10px;
-    font-size: 1.2em;
 }
 
-.menu-item {
-    display: block;
+.submenu-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #000;
+}
+
+.submenu-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.submenu-items .menu-item {
     padding: 5px 0;
-    text-decoration: none;
     color: #333;
     background-color: transparent;
 }
 
-/* Hover effect to show mega menu */
-.main-menu>li:hover .mega-menu {
+/* Hover effect to show submenu */
+.main-menu>li:hover .submenu {
     display: block;
 }
 
-/* Clear floats after mega menu */
-.mega-menu:after {
+/* Clear floats after submenu */
+.submenu:after {
     content: "";
     display: table;
     clear: both;
 }
 
-/* Optional styling for menu items on hover */
-.menu-item:hover {
+/* Optional styling for submenu items on hover */
+.submenu-items .menu-item:hover {
     background-color: #eee;
 }
