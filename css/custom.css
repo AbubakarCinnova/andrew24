@@ -63,6 +63,8 @@
     /* Adjust width according to the number of columns */
     box-sizing: border-box;
     padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .submenu-title {
@@ -93,4 +95,9 @@
     content: "";
     display: table;
     clear: both;
+}
+
+/* Optional styling for submenu items on hover */
+.submenu-items .menu-item:hover {
+    background-color: #000000;
 }

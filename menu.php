@@ -57,7 +57,7 @@
 
                                   <!-- mega menu -->
                                   <li>
-                                      <a class="menu-item" href="#">Services <span class="arrow">&#9662;</span></a>
+                                      <a class="menu-item" href="#">Services </a>
                                       <!-- ▼ arrow icon -->
                                       <ul class="submenu">
                                           <li>
