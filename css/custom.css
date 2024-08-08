@@ -16,7 +16,7 @@
     position: absolute;
     left: 100%;
     /* Align sub-menu to the right of the parent item */
-    top: 0;
+    top: 55px;
     min-width: 200px;
     background-color: #fff;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
@@ -42,8 +42,8 @@ li:hover>.sub-menu {
 }
 
 .head-menu {
-    background-image: ("https://cdn-icons-png.flaticon.com/512/32/32213.png") !important;
-    background-position: right !important;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/32/32213.png) !important;
+    background-position: 13em 15px !important;
     background-repeat: no-repeat !important;
-    background-size: 20px !important;
+    background-size: 10px !important;
 }
