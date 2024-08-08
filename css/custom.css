@@ -41,9 +41,15 @@ li:hover>.sub-menu {
     background-color: #ececec;
 }
 
-.head-menu {
-    background-image: url(https://cdn-icons-png.flaticon.com/512/32/32213.png) !important;
-    background-position: 13em 15px !important;
-    background-repeat: no-repeat !important;
-    background-size: 10px !important;
+@media (min-width:991px) {
+    .head-menu {
+        background-image: url(https://cdn-icons-png.flaticon.com/512/32/32213.png) !important;
+        background-position: 13em 15px !important;
+        background-repeat: no-repeat !important;
+        background-size: 10px !important;
+    }
+
+    .head-menu .sub-menu {
+        left: 10px;
+    }
 }
