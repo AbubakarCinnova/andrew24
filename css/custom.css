@@ -42,8 +42,8 @@ li:hover>.sub-menu {
 }
 
 .head-menu {
-    background-image: ("https://cdn-icons-png.flaticon.com/512/32/32213.png");
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: 20px;
+    background-image: ("https://cdn-icons-png.flaticon.com/512/32/32213.png") !important;
+    background-position: right !important;
+    background-repeat: no-repeat !important;
+    background-size: 20px !important;
 }
