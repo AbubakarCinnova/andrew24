@@ -54,15 +54,51 @@
                                           <li><a class="menu-item new" href="homepage-6.php">Homepage Six</a></li>
                                       </ul> -->
                                   </li>
+
+
                                   <li><a class="menu-item" href="#">Services</a>
-                                      <ul>
-                                          <li><a class="menu-item" href="installation.php">Installation</a></li>
-                                          <li><a class="menu-item" href="repair.php">Repair</a></li>
-                                          <li><a class="menu-item" href="maintenance.php">Maintenance</a></li>
-                                          <!--  <li><a class="menu-item" href="pricing-plans.php">Pricing Plans</a></li>
-                                          <li><a class="menu-item" href="price-list.php">Price List</a></li> -->
+                                      <ul class="mega-menu">
+                                          <li>
+                                              <div class="mega-menu-content">
+                                                  <!-- Security Services Section -->
+                                                  <div class="mega-menu-column">
+                                                      <h3>Security</h3>
+                                                      <ul>
+                                                          <li><a class="menu-item"
+                                                                  href="security-installation.php">Installation</a></li>
+                                                          <li><a class="menu-item" href="security-repair.php">Repair</a>
+                                                          </li>
+                                                          <li><a class="menu-item"
+                                                                  href="security-maintenance.php">Maintenance</a></li>
+                                                          <!-- Add more services under Security if needed -->
+                                                      </ul>
+                                                  </div>
+
+                                                  <!-- Other Services Section -->
+                                                  <div class="mega-menu-column">
+                                                      <h3>Other Services</h3>
+                                                      <ul>
+                                                          <li><a class="menu-item"
+                                                                  href="installation.php">Installation</a></li>
+                                                          <li><a class="menu-item" href="repair.php">Repair</a></li>
+                                                          <li><a class="menu-item"
+                                                                  href="maintenance.php">Maintenance</a></li>
+                                                          <li><a class="menu-item" href="pricing-plans.php">Pricing
+                                                                  Plans</a></li>
+                                                          <li><a class="menu-item" href="price-list.php">Price List</a>
+                                                          </li>
+                                                      </ul>
+                                                  </div>
+
+                                                  <!-- Add more sections as needed -->
+                                              </div>
+                                          </li>
                                       </ul>
                                   </li>
+
+
+
+
                                   <li><a class="menu-item" href="about.php">About Us</a></li>
                                   <li><a class="menu-item" href="projects.php">Projects</a></li>
                                   <!--  <li><a class="menu-item" href="blog.php">Blog</a></li> -->
