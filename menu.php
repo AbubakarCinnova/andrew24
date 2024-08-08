@@ -58,51 +58,37 @@
                                   <!-- mega menu -->
                                   <li>
                                       <a class="menu-item" href="#">Services </a>
-                                      <!-- ▼ arrow icon -->
-                                      <ul class="submenu">
-                                          <li>
-                                              <a class="submenu-title" href="#">Security <span
-                                                      class="arrow">&#9656;</span></a> <!-- ▶ arrow icon -->
-                                              <ul class="submenu-items">
-                                                  <li><a class="menu-item" href="#">Surveillance Camera</a></li>
-                                                  <li><a class="menu-item" href="#">Access Control</a></li>
-                                                  <li><a class="menu-item" href="#">Video Intercom</a></li>
-                                              </ul>
-                                          </li>
-                                          <li>
-                                              <a class="submenu-title" href="#">Fire & Life Safety <span
-                                                      class="arrow">&#9656;</span></a> <!-- ▶ arrow icon -->
-                                              <ul class="submenu-items">
-                                                  <li><a class="menu-item" href="#">Fire Alarms</a></li>
-                                                  <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
-                                                  <li><a class="menu-item" href="#">Nurse Call</a></li>
-                                                  <li><a class="menu-item" href="#">Wander Management Systems</a></li>
-                                                  <li><a class="menu-item" href="#">Alarm Monitoring</a></li>
-                                                  <li><a class="menu-item" href="#">Fire Alarm Inspections/Testing</a>
-                                                  </li>
-                                              </ul>
-                                          </li>
-                                          <li>
-                                              <a class="submenu-title" href="#">Network Services <span
-                                                      class="arrow">&#9656;</span></a> <!-- ▶ arrow icon -->
-                                              <ul class="submenu-items">
-                                                  <li><a class="menu-item" href="#">Technology Deployments</a></li>
-                                                  <li><a class="menu-item" href="#">Cabling Infrastructure</a></li>
-                                                  <li><a class="menu-item" href="#">Rack and Stack</a></li>
-                                              </ul>
-                                          </li>
-                                          <li>
-                                              <a class="submenu-title" href="#">Audio/Video <span
-                                                      class="arrow">&#9656;</span></a> <!-- ▶ arrow icon -->
-                                              <ul class="submenu-items">
-                                                  <li><a class="menu-item" href="#">Professional Audio</a></li>
-                                                  <li><a class="menu-item" href="#">PA Systems</a></li>
-                                                  <li><a class="menu-item" href="#">Intercom Systems</a></li>
-                                                  <li><a class="menu-item" href="#">School/University Clocks</a></li>
-                                                  <li><a class="menu-item" href="#">Sound Masking</a></li>
-                                              </ul>
-                                          </li>
-                                      </ul>
+                                      <div class="mega-menu">
+                                          <div class="mega-menu-column">
+                                              <a class="mega-menu-heading" href="#">Security</a>
+                                              <a class="menu-item" href="#">Surveillance Camera</a>
+                                              <a class="menu-item" href="#">Access Control</a>
+                                              <a class="menu-item" href="#">Video Intercom</a>
+                                          </div>
+                                          <div class="mega-menu-column">
+                                              <a class="mega-menu-heading" href="#">Fire & Life Safety</a>
+                                              <a class="menu-item" href="#">Fire Alarms</a>
+                                              <a class="menu-item" href="#">Mass Notification Systems</a>
+                                              <a class="menu-item" href="#">Nurse Call</a>
+                                              <a class="menu-item" href="#">Wander Management Systems</a>
+                                              <a class="menu-item" href="#">Alarm Monitoring</a>
+                                              <a class="menu-item" href="#">Fire Alarm Inspections/Testing</a>
+                                          </div>
+                                          <div class="mega-menu-column">
+                                              <a class="mega-menu-heading" href="#">Network Services</a>
+                                              <a class="menu-item" href="#">Technology Deployments</a>
+                                              <a class="menu-item" href="#">Cabling Infrastructure</a>
+                                              <a class="menu-item" href="#">Rack and Stack</a>
+                                          </div>
+                                          <div class="mega-menu-column">
+                                              <a class="mega-menu-heading" href="#">Audio/Video</a>
+                                              <a class="menu-item" href="#">Professional Audio</a>
+                                              <a class="menu-item" href="#">PA Systems</a>
+                                              <a class="menu-item" href="#">Intercom Systems</a>
+                                              <a class="menu-item" href="#">School/University Clocks</a>
+                                              <a class="menu-item" href="#">Sound Masking</a>
+                                          </div>
+                                      </div>
                                   </li>
 
 
