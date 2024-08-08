@@ -55,37 +55,56 @@
                                       </ul> -->
                                   </li>
 
-
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul class="sub-menu">
-                                          <!-- Security Services Sub-Menu -->
+                                          <!-- Security Sub-Menu -->
                                           <li>
                                               <a class="menu-item" href="#">Security</a>
                                               <ul class="sub-menu">
-                                                  <li><a class="menu-item"
-                                                          href="security-installation.php">Installation</a></li>
-                                                  <li><a class="menu-item" href="security-repair.php">Repair</a></li>
-                                                  <li><a class="menu-item"
-                                                          href="security-maintenance.php">Maintenance</a></li>
+                                                  <li><a class="menu-item" href="#">Surveillance Camera</a></li>
+                                                  <li><a class="menu-item" href="#">Access Control</a></li>
+                                                  <li><a class="menu-item" href="#">Video Intercom</a></li>
                                               </ul>
                                           </li>
 
-                                          <!-- Other Services Sub-Menu -->
+                                          <!-- Fire & Life Safety Sub-Menu -->
                                           <li>
-                                              <a class="menu-item" href="#">Other Services</a>
+                                              <a class="menu-item" href="#">Fire & Life Safety</a>
                                               <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="installation.php">Installation</a></li>
-                                                  <li><a class="menu-item" href="repair.php">Repair</a></li>
-                                                  <li><a class="menu-item" href="maintenance.php">Maintenance</a></li>
-                                                  <li><a class="menu-item" href="pricing-plans.php">Pricing Plans</a>
+                                                  <li><a class="menu-item" href="#">Fire Alarms</a></li>
+                                                  <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
+                                                  <li><a class="menu-item" href="#">Nurse Call</a></li>
+                                                  <li><a class="menu-item" href="#">Wander Management Systems</a></li>
+                                                  <li><a class="menu-item" href="#">Alarm Monitoring</a></li>
+                                                  <li><a class="menu-item" href="#">Fire Alarm Inspections/Testing</a>
                                                   </li>
-                                                  <li><a class="menu-item" href="price-list.php">Price List</a></li>
                                               </ul>
                                           </li>
 
-                                          <!-- Add more sub-menus as needed -->
+                                          <!-- Network Services Sub-Menu -->
+                                          <li>
+                                              <a class="menu-item" href="#">Network Services</a>
+                                              <ul class="sub-menu">
+                                                  <li><a class="menu-item" href="#">Technology Deployments</a></li>
+                                                  <li><a class="menu-item" href="#">Cabling Infrastructure</a></li>
+                                                  <li><a class="menu-item" href="#">Rack and Stack</a></li>
+                                              </ul>
+                                          </li>
+
+                                          <!-- Audio/Video Sub-Menu -->
+                                          <li>
+                                              <a class="menu-item" href="#">Audio/Video</a>
+                                              <ul class="sub-menu">
+                                                  <li><a class="menu-item" href="#">Professional Audio</a></li>
+                                                  <li><a class="menu-item" href="#">PA Systems</a></li>
+                                                  <li><a class="menu-item" href="#">Intercom Systems</a></li>
+                                                  <li><a class="menu-item" href="#">School/University Clocks</a></li>
+                                                  <li><a class="menu-item" href="#">Sound Masking</a></li>
+                                              </ul>
+                                          </li>
                                       </ul>
                                   </li>
+
 
 
 
