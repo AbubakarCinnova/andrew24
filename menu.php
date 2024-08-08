@@ -61,7 +61,8 @@
                                           <li>
                                               <a class="menu-item" href="#">Security</a>
                                               <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="#">Surveillance Camera</a></li>
+                                                  <li><a class="menu-item" href="#">Surveillance Camera</a><span
+                                                          style='font-size:100px;'>&#129170;</span></li>
                                                   <li><a class="menu-item" href="#">Access Control</a></li>
                                                   <li><a class="menu-item" href="#">Video Intercom</a></li>
                                               </ul>
