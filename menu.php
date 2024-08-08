@@ -57,42 +57,33 @@
 
 
                                   <li><a class="menu-item" href="#">Services</a>
-                                      <ul class="mega-menu">
+                                      <ul class="sub-menu">
+                                          <!-- Security Services Sub-Menu -->
                                           <li>
-                                              <div class="mega-menu-content">
-                                                  <!-- Security Services Section -->
-                                                  <div class="mega-menu-column">
-                                                      <h3>Security</h3>
-                                                      <ul>
-                                                          <li><a class="menu-item"
-                                                                  href="security-installation.php">Installation</a></li>
-                                                          <li><a class="menu-item" href="security-repair.php">Repair</a>
-                                                          </li>
-                                                          <li><a class="menu-item"
-                                                                  href="security-maintenance.php">Maintenance</a></li>
-                                                          <!-- Add more services under Security if needed -->
-                                                      </ul>
-                                                  </div>
-
-                                                  <!-- Other Services Section -->
-                                                  <div class="mega-menu-column">
-                                                      <h3>Other Services</h3>
-                                                      <ul>
-                                                          <li><a class="menu-item"
-                                                                  href="installation.php">Installation</a></li>
-                                                          <li><a class="menu-item" href="repair.php">Repair</a></li>
-                                                          <li><a class="menu-item"
-                                                                  href="maintenance.php">Maintenance</a></li>
-                                                          <li><a class="menu-item" href="pricing-plans.php">Pricing
-                                                                  Plans</a></li>
-                                                          <li><a class="menu-item" href="price-list.php">Price List</a>
-                                                          </li>
-                                                      </ul>
-                                                  </div>
-
-                                                  <!-- Add more sections as needed -->
-                                              </div>
+                                              <a class="menu-item" href="#">Security</a>
+                                              <ul class="sub-menu">
+                                                  <li><a class="menu-item"
+                                                          href="security-installation.php">Installation</a></li>
+                                                  <li><a class="menu-item" href="security-repair.php">Repair</a></li>
+                                                  <li><a class="menu-item"
+                                                          href="security-maintenance.php">Maintenance</a></li>
+                                              </ul>
                                           </li>
+
+                                          <!-- Other Services Sub-Menu -->
+                                          <li>
+                                              <a class="menu-item" href="#">Other Services</a>
+                                              <ul class="sub-menu">
+                                                  <li><a class="menu-item" href="installation.php">Installation</a></li>
+                                                  <li><a class="menu-item" href="repair.php">Repair</a></li>
+                                                  <li><a class="menu-item" href="maintenance.php">Maintenance</a></li>
+                                                  <li><a class="menu-item" href="pricing-plans.php">Pricing Plans</a>
+                                                  </li>
+                                                  <li><a class="menu-item" href="price-list.php">Price List</a></li>
+                                              </ul>
+                                          </li>
+
+                                          <!-- Add more sub-menus as needed -->
                                       </ul>
                                   </li>
 
