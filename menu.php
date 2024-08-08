@@ -57,10 +57,12 @@
 
                                   <!-- mega menu -->
                                   <li>
-                                      <a class="menu-item" href="#">Services</a>
+                                      <a class="menu-item" href="#">Services <span class="arrow">&#9662;</span></a>
+                                      <!-- ▼ arrow icon -->
                                       <ul class="submenu">
                                           <li>
-                                              <a class="submenu-title" href="#">Security</a>
+                                              <a class="submenu-title" href="#">Security <span
+                                                      class="arrow">&#9656;</span></a> <!-- ▶ arrow icon -->
                                               <ul class="submenu-items">
                                                   <li><a class="menu-item" href="#">Surveillance Camera</a></li>
                                                   <li><a class="menu-item" href="#">Access Control</a></li>
@@ -68,7 +70,8 @@
                                               </ul>
                                           </li>
                                           <li>
-                                              <a class="submenu-title" href="#">Fire & Life Safety</a>
+                                              <a class="submenu-title" href="#">Fire & Life Safety <span
+                                                      class="arrow">&#9656;</span></a> <!-- ▶ arrow icon -->
                                               <ul class="submenu-items">
                                                   <li><a class="menu-item" href="#">Fire Alarms</a></li>
                                                   <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
@@ -80,7 +83,8 @@
                                               </ul>
                                           </li>
                                           <li>
-                                              <a class="submenu-title" href="#">Network Services</a>
+                                              <a class="submenu-title" href="#">Network Services <span
+                                                      class="arrow">&#9656;</span></a> <!-- ▶ arrow icon -->
                                               <ul class="submenu-items">
                                                   <li><a class="menu-item" href="#">Technology Deployments</a></li>
                                                   <li><a class="menu-item" href="#">Cabling Infrastructure</a></li>
@@ -88,7 +92,8 @@
                                               </ul>
                                           </li>
                                           <li>
-                                              <a class="submenu-title" href="#">Audio/Video</a>
+                                              <a class="submenu-title" href="#">Audio/Video <span
+                                                      class="arrow">&#9656;</span></a> <!-- ▶ arrow icon -->
                                               <ul class="submenu-items">
                                                   <li><a class="menu-item" href="#">Professional Audio</a></li>
                                                   <li><a class="menu-item" href="#">PA Systems</a></li>
