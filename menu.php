@@ -59,8 +59,7 @@
                                       <ul class="sub-menu">
                                           <!-- Security Sub-Menu -->
                                           <li>
-                                              <a class="menu-item" href="#">Security <span
-                                                      style='font-size:20px;'>&#129170;</span></a>
+                                              <a class="menu-item head-menu" href="#">Security </a>
                                               <ul class="sub-menu">
                                                   <li><a class="menu-item" href="#">Surveillance Camera</a></li>
                                                   <li><a class="menu-item" href="#">Access Control</a></li>
@@ -70,7 +69,7 @@
 
                                           <!-- Fire & Life Safety Sub-Menu -->
                                           <li>
-                                              <a class="menu-item" href="#">Fire & Life Safety</a>
+                                              <a class="menu-item head-menu" href="#">Fire & Life Safety</a>
                                               <ul class="sub-menu">
                                                   <li><a class="menu-item" href="#">Fire Alarms</a></li>
                                                   <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
@@ -84,7 +83,7 @@
 
                                           <!-- Network Services Sub-Menu -->
                                           <li>
-                                              <a class="menu-item" href="#">Network Services</a>
+                                              <a class="menu-item head-menu" href="#">Network Services</a>
                                               <ul class="sub-menu">
                                                   <li><a class="menu-item" href="#">Technology Deployments</a></li>
                                                   <li><a class="menu-item" href="#">Cabling Infrastructure</a></li>
@@ -94,7 +93,7 @@
 
                                           <!-- Audio/Video Sub-Menu -->
                                           <li>
-                                              <a class="menu-item" href="#">Audio/Video</a>
+                                              <a class="menu-item head-menu" href="#">Audio/Video</a>
                                               <ul class="sub-menu">
                                                   <li><a class="menu-item" href="#">Professional Audio</a></li>
                                                   <li><a class="menu-item" href="#">PA Systems</a></li>

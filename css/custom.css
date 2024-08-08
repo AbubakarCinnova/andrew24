@@ -40,3 +40,10 @@ li:hover>.sub-menu {
 .sub-menu li a:hover {
     background-color: #ececec;
 }
+
+.head-menu {
+    background-image: ("https://cdn-icons-png.flaticon.com/512/32/32213.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 20px;
+}
