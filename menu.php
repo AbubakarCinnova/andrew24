@@ -55,13 +55,30 @@
                                       </ul> -->
                                   </li>
                                   <li><a class="menu-item" href="#">Services</a>
-                                      <ul>
-                                          <li><a class="menu-item" href="installation.php">Installation</a></li>
-                                          <li><a class="menu-item" href="repair.php">Repair</a></li>
-                                          <li><a class="menu-item" href="maintenance.php">Maintenance</a></li>
-                                          <!--  <li><a class="menu-item" href="pricing-plans.php">Pricing Plans</a></li>
-                                          <li><a class="menu-item" href="price-list.php">Price List</a></li> -->
-                                      </ul>
+                                      <div class="mega-menu">
+                                          <div class="mega-item">
+                                              <p><strong>Security</strong></p>
+                                              <ul>
+                                                  <li><a class="menu-item" href="">Surveillance Camera</a></li>
+                                                  <li><a class="menu-item" href="">Access Control </a></li>
+                                                  <li><a class="menu-item" href="">Video Intercom</a></li>
+                                              </ul>
+                                          </div>
+                                          <div class="mega-item">
+                                              <p><strong>Fire & Life Safety
+                                                  </strong></p>
+                                              <ul>
+                                                  <li><a class="menu-item" href="">Fire Alarms </a></li>
+                                                  <li><a class="menu-item" href="">Mass Notification Systems </a></li>
+                                                  <li><a class="menu-item" href="">Nurse Call</a></li>
+                                                  <li><a class="menu-item" href="">Wander Management Systems</a></li>
+                                                  <li><a class="menu-item" href="">Alarm Monitoring</a></li>
+                                                  <li><a class="menu-item" href="">Fire Alarm Inspections/Testing</a>
+                                                  </li>
+                                              </ul>
+                                          </div>
+                                      </div>
+
                                   </li>
                                   <li><a class="menu-item" href="about.php">About Us</a></li>
                                   <li><a class="menu-item" href="projects.php">Projects</a></li>
