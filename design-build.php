@@ -71,22 +71,35 @@
                         <div class="col-lg-12">
                             <div class="row g-4">
                                 <div class="col-lg-12">
-                                    <h2>Worry free with <span class="id-color-2">certified</span> HVAC service</h2>
-                                    <p>Lorem ipsum in ad eu in in aliqua aliquip sit aute in ullamco enim nostrud veniam
-                                        commodo laborum est laboris nostrud dolore excepteur commodo incididunt dolor
-                                        commodo ut veniam mollit pariatur eu dolore laborum laboris laborum in nostrud
-                                        deserunt sint culpa ex deserunt tempor occaecat mollit sint sit commodo est
-                                        nulla adipisicing dolore duis eiusmod consequat ut ea laborum enim non sunt anim
-                                        enim nisi in consectetur culpa anim laborum nulla est sit ut ullamco duis fugiat
-                                        qui elit laborum ut anim adipisicing sed laboris nostrud elit magna occaecat
-                                        nostrud dolor dolore ut tempor sed in aliqua nostrud irure consequat ut
-                                        exercitation
-                                    <p>
-                                    <p>Deserunt ex anim esse id nulla eiusmod cillum culpa culpa magna enim enim sit
-                                        consequat eu eu ullamco proident voluptate voluptate eu dolore in in est mollit
-                                        dolore mollit deserunt reprehenderit est incididunt nisi aliqua irure ex id
-                                        deserunt ad in et dolore dolore excepteur veniam tempor commodo dolore in
-                                        proident pariatur commodo.</p>
+                                    <h2>Design</h2>
+
+                                    <p>At Andrew Casey Integration, our expert engineers deliver advanced design-build
+                                        solutions for security, communication, and life safety systems, along with
+                                        technology deployments. We combine creativity with practicality to create
+                                        customized
+                                        designs tailored to your needs.</p>
+
+                                    <p>Partnering with your team, including architects and engineers, we develop
+                                        effective,
+                                        budget-friendly solutions using the latest technology. Our comprehensive
+                                        approach
+                                        ensures precise, efficient project completion within financial expectations,
+                                        balancing cost and design to provide the best value.</p>
+
+                                    <h2>Build</h2>
+
+                                    <p>At Andrew Casey Integration, we prioritize the flawless execution of your
+                                        project. Our dedicated project teams, including project managers and
+                                        installation
+                                        experts, work together to ensure a seamless experience from start to finish.
+                                        Each
+                                        project is overseen with precision and clear communication, guaranteeing timely
+                                        delivery and adherence to budget.</p>
+
+
+
+
+
                                 </div>
 
                                 <!-- <div class="col-lg-6">
