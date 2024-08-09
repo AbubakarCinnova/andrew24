@@ -263,8 +263,8 @@
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Expert Technicians</h4>
-                                            <p class="mb-0">Trust us to deliver reliable solutions and exceptional
-                                                service, and peace of mind for your HVAC needs.</p>
+                                            <p class="mb-0">Expert technicians delivering precise, high-performance
+                                                solutions.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -274,9 +274,9 @@
                                         <i
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
-                                            <h4>Flexible Scheduling</h4>
-                                            <p class="mb-0">Trust us to deliver reliable solutions and exceptional
-                                                service, and peace of mind for your HVAC needs.</p>
+                                            <h4> Transparent Pricing</h4>
+                                            <p class="mb-0">Clear, upfront costs with no hidden fees, for
+                                                straightforward and reliable budgeting.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -286,9 +286,10 @@
                                         <i
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
-                                            <h4>Transparent Pricing</h4>
-                                            <p class="mb-0">Trust us to deliver reliable solutions and exceptional
-                                                service, and peace of mind for your HVAC needs.</p>
+                                            <h4>Emergency Services</h4>
+                                            <p class="mb-0">Rapid, expert response to minimize downtime and restore
+                                                operations.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -298,9 +299,9 @@
                                         <i
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
-                                            <h4>Quality Parts</h4>
-                                            <p class="mb-0">Trust us to deliver reliable solutions and exceptional
-                                                service, and peace of mind for your HVAC needs.</p>
+                                            <h4>Project Management</h4>
+                                            <p class="mb-0">Precision project management for flawless execution and
+                                                delivery.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -310,9 +311,9 @@
                                         <i
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
-                                            <h4>Emergency Services</h4>
-                                            <p class="mb-0">Trust us to deliver reliable solutions and exceptional
-                                                service, and peace of mind for your HVAC needs.</p>
+                                            <h4>Top-Quality Products</h4>
+                                            <p class="mb-0">Premium components for exceptional durability and
+                                                performance.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -322,9 +323,9 @@
                                         <i
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
-                                            <h4>Satisfaction Guarantee</h4>
-                                            <p class="mb-0">Trust us to deliver reliable solutions and exceptional
-                                                service, and peace of mind for your HVAC needs.</p>
+                                            <h4>Service First</h4>
+                                            <p class="mb-0">Fully Committed to excellence with cutting-edge solutions
+                                                and exceptional support.</p>
                                         </div>
                                     </div>
                                 </div>
