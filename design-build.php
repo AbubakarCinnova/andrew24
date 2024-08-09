@@ -251,8 +251,8 @@
 
                             <div class="spacer-double"></div>
 
-
-                            <div class="row g-4">
+                            <!-- slider -->
+                            <!--     <div class="row g-4">
                                 <div class="col-md-12 wow fadeInUp">
                                     <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
                                         <img src="images/logo/1.webp" class="img-fluid px-4" alt="">
@@ -263,7 +263,7 @@
                                         <img src="images/logo/6.webp" class="img-fluid px-4" alt="">
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
