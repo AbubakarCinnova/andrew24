@@ -29,15 +29,15 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6">
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
-                            <h1>Installation</h1>
+                            <h1>Design Build</h1>
                             <ul class="crumb">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Installation</li>
+                                <li class="active">Design Build</li>
                             </ul>
                         </div>
-                        <div class="col-lg-6 text-lg-end">
+                        <!-- <div class="col-lg-6 text-lg-end">
                             <div class="fs-20 fw-600 no-bottom sm-hide">Air Conditioning and Heating Specialists</div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="de-overlay"></div>
@@ -54,7 +54,7 @@
             <section>
                 <div class="container">
                     <div class="row g-5">
-                        <div class="col-lg-3">
+                        <!--  <div class="col-lg-3">
                             <a href="installation.php"
                                 class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
                                 <h4 class="mb-0">Installation</h4><i
@@ -66,9 +66,9 @@
                             <a href="maintenance.php" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
                                 <h4 class="mb-0">Maintenance</h4>
                             </a>
-                        </div>
+                        </div> -->
 
-                        <div class="col-lg-9">
+                        <div class="col-lg-12">
                             <div class="row g-4">
                                 <div class="col-lg-6">
                                     <h2>Worry free with <span class="id-color-2">certified</span> HVAC service</h2>
@@ -197,8 +197,8 @@
                 <div class="container">
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-9">
-                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Quality heating
-                                &amp; air conditioning solutions</h3>
+                            <h3 class="mb-1"><i class="icofont-check-circled fs-32 me-3 id-color-2"></i>Andrew Casey
+                                Integration</h3>
                         </div>
 
                         <div class="col-lg-3 text-lg-end text-start">
