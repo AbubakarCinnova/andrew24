@@ -96,7 +96,7 @@
                                           <li>
                                               <a class="menu-item head-menu" href="#">Audio/Video</a>
                                               <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="#">Professional Audio</a></li>
+                                                  <!-- <li><a class="menu-item" href="#">Professional Audio</a></li> -->
                                                   <li><a class="menu-item" href="#">PA Systems</a></li>
                                                   <li><a class="menu-item" href="#">Intercom Systems</a></li>
                                                   <li><a class="menu-item" href="#">School/University Clocks</a></li>
