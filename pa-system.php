@@ -14,10 +14,6 @@
         </div>
         <div class="scrollbar-v show-on-scroll"></div>
 
-        <!-- page preloader begin -->
-        <!--  <div id="de-loader"></div> -->
-        <!-- page preloader close -->
-
         <?php include('menu.php'); ?>
 
         <!-- content begin -->
@@ -36,9 +32,7 @@
                                 <li class="active">PA Systems</li>
                             </ul>
                         </div>
-                        <!-- <div class="col-lg-6 text-lg-end">
-                            <div class="fs-20 fw-600 no-bottom sm-hide">Air Conditioning and Heating Specialists</div>
-                        </div> -->
+
                     </div>
                 </div>
                 <div class="de-overlay"></div>
@@ -55,20 +49,6 @@
             <section>
                 <div class="container">
                     <div class="row g-5">
-                        <!--  <div class="col-lg-3">
-                            <a href="installation.php"
-                                class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
-                                <h4 class="mb-0">Installation</h4><i
-                                    class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
-                            </a>
-                            <a href="repair.php" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
-                                <h4 class="mb-0">Repair</h4>
-                            </a>
-                            <a href="maintenance.php" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
-                                <h4 class="mb-0">Maintenance</h4>
-                            </a>
-                        </div> -->
-
                         <div class="col-lg-12">
                             <div class="row g-4">
                                 <div class="col-lg-12">
@@ -139,10 +119,6 @@
 
                                 </div>
 
-                                <!-- <div class="col-lg-6">
-                                    <img src="images/misc/services-2.webp" class="img-fluid rounded-20px mb-4" alt="">
-                                    <img src="images/misc/services-3.webp" class="img-fluid rounded-20px" alt="">
-                                </div> -->
                             </div>
 
                             <div class="spacer-double"></div>
