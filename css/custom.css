@@ -62,6 +62,6 @@ li:hover>.sub-menu {
     }
 }
 
-a {
-    text-decoration: underline;
+p a {
+    text-decoration: underline !important;
 }
