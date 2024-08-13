@@ -1,12 +1,11 @@
-const swiper = new Swiper('.swiper', {
-
+const swiper = new Swiper(".swiper", {
   autoplay: {
-     delay: 3000,
-     disableOnInteraction: false
-   },
+    delay: 5000,
+    disableOnInteraction: false,
+  },
 
   // Optional parameters
-  direction: 'horizontal',
+  direction: "horizontal",
   slidesPerView: 1,
   loop: true,
   speed: 1200,
@@ -16,15 +15,14 @@ const swiper = new Swiper('.swiper', {
   spaceBetween: -1,
 
   // If we need pagination
-   pagination: {
-      el: ".swiper-pagination",
-      type: "fraction",
-    },
+  pagination: {
+    el: ".swiper-pagination",
+    type: "fraction",
+  },
 
   // Navigation arrows
   navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev",
   },
-
 });
