@@ -1,11 +1,11 @@
 .logo-main,
 .logo-mobile {
-    width: 230px;
+    width: 250px;
     filter: invert(10) saturate(0) brightness(3.5);
 }
 
 .logo-scroll {
-    width: 210px;
+    width: 230px;
 }
 
 
