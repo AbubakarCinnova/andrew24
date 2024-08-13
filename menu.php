@@ -102,7 +102,8 @@
                                                   <li><a class="menu-item" href="pa-system.php">PA Systems</a></li>
                                                   <li><a class="menu-item" href="#">Intercom Systems</a></li>
                                                   <li><a class="menu-item" href="#">School/University Clocks</a></li>
-                                                  <li><a class="menu-item" href="#">Sound Masking</a></li>
+                                                  <li><a class="menu-item" href="sound-masking.php">Sound Masking</a>
+                                                  </li>
                                               </ul>
                                           </li>
                                       </ul>
