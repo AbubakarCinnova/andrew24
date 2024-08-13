@@ -64,5 +64,5 @@ li:hover>.sub-menu {
 
 #content p a,
 #content li a {
-    text-decoration: underline !important;
+    text-decoration: underline;
 }
