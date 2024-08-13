@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Technologies | Cable Infastructure </title>
+<title>Andrew Casey Integration | Cable Infastructure </title>
 
 <meta name="description"
     content=" Discover expert cabling infrastructure solutions with a Service First approach. We provide high-quality, reliable installations and support tailored to your needs.">

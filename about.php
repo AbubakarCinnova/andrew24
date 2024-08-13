@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Technologies | About Us</title>
+<title>Andrew Casey Integration | About Us</title>
 
 </head>
 

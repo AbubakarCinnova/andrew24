@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Technologies | PA Systems </title>
+<title>Andrew Casey Integration | PA Systems </title>
 <meta name="description"
     content=" Andrew Casey Integration offers end-to-end PA system solutions with a Service First approach, including design, installation, and support for factories, schools, and warehouses.">
 

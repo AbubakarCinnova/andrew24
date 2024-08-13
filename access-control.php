@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<title>Andrew Casey Technologies | Access Control</title>
+<title>Andrew Casey Integration | Access Control</title>
 <meta name="description"
     content=" Andrew Casey Integration offers advanced access control solutions with expert installation, transparent pricing, and exceptional service. Our 'Service First' approach ensures high-quality products and swift support for all your security needs.">
 
