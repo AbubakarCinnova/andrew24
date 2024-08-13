@@ -63,7 +63,7 @@
                                         wireless intercom systems to meet the security needs of your school, hospital,
                                         or facility.</p>
 
-                                    <h2>What is a Video Intercom System?</h2>
+                                    <h3>What is a Video Intercom System?</h3>
                                     <p>A video intercom system is an advanced communication and security tool that
                                         allows you to see, hear, and speak with visitors before granting access to your
                                         premises. Typically used in schools, hospitals, and other secure facilities,
