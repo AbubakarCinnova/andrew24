@@ -64,7 +64,8 @@
                                                   <li><a class="menu-item" href="#">Surveillance Camera</a></li>
                                                   <li><a class="menu-item" href="access-control.php">Access Control</a>
                                                   </li>
-                                                  <li><a class="menu-item" href="#">Video Intercom</a></li>
+                                                  <li><a class="menu-item" href="video-intercom.php">Video Intercom</a>
+                                                  </li>
                                               </ul>
                                           </li>
 
