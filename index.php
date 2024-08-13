@@ -31,8 +31,7 @@
                         <div class="swiper-wrapper">
                             <!-- Slides -->
                             <div class="swiper-slide">
-                                <div class="swiper-inner"
-                                    data-bgimage="url(images/slider/dayton_2000x1333-min (1).webp)">
+                                <div class="swiper-inner" data-bgimage="url(images/slider/slider1.png)">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
