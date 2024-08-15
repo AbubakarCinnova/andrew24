@@ -22,7 +22,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/school university clock.webp" class="school-img" alt="">
+                <img src="images/misc/school university clock.webp" class="jarallax-img" alt="">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
@@ -56,10 +56,10 @@
 
                                     <!-- content start here -->
 
-                                    <h1>Integrated Clock and Communication Systems for Schools, Universities, and
-                                        Commercial Facilities</h1>
+                                    <h2>Integrated Clock and Communication Systems for Schools, Universities, and
+                                        Commercial Facilities</h2>
 
-                                    <h2>Advanced Timekeeping and Communication Solutions</h2>
+                                    <h3>Advanced Timekeeping and Communication Solutions</h3>
                                     <p>At Andrew Casey Integration, we specialize in providing advanced, synchronized
                                         clock and communication systems for schools, universities, and commercial
                                         facilities. Our solutions ensure that every class, event, and critical
