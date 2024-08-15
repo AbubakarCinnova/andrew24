@@ -155,8 +155,8 @@
                                     </ul>
 
                                     <p>For all your video intercom system needs, trust Andrew Casey Integration to
-                                        deliver exceptional results from start to finish. <a
-                                            href="mailto:contact@example.com">Contact us today</a> to discuss your
+                                        deliver exceptional results from start to finish. <a href="contact.php">Contact
+                                            us today</a> to discuss your
                                         project or schedule a service appointment.</p>
 
 
