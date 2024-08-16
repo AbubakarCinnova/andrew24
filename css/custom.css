@@ -66,3 +66,7 @@ li:hover>.sub-menu {
 #content li a {
     text-decoration: underline;
 }
+
+h2 {
+    font-size: 36px !important;
+}
