@@ -21,7 +21,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/6.webp" class="jarallax-img" alt="">
+                <img src="images/background/Cable-Infrastructure.webp" class="jarallax-img" alt="">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
