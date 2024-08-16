@@ -76,16 +76,20 @@
                                             preventive measures to ensure smooth operations.</li>
                                         <li><strong>Continuous Improvement:</strong> We refine our processes based on
                                             client feedback and project insights for ongoing enhancement.</li>
-                                        <li>Rollouts: Deploying new technology solutions across multiple locations with
+                                        <li><strong>Rollouts:</strong> Deploying new technology solutions across
+                                            multiple locations with
                                             precision and efficiency. Our process includes detailed planning,
                                             coordination, deployment, and post-installation testing.</li>
-                                        <li>Remodels: Updating or redesigning existing systems to enhance functionality
+                                        <li><strong>Remodels:</strong> Updating or redesigning existing systems to
+                                            enhance functionality
                                             and aesthetics, with a focus on detailed assessment, custom design, precise
                                             implementation, and review.</li>
-                                        <li>Retrofits: Upgrading existing systems with new technology to extend lifespan
+                                        <li><strong>Retrofits:</strong> Upgrading existing systems with new technology
+                                            to extend lifespan
                                             or enhance performance. We handle evaluation, specification, installation,
                                             and thorough testing.</li>
-                                        <li>Special Projects: Handling unique or complex deployments such as proof of
+                                        <li><strong>Special Projects:</strong> Handling unique or complex deployments
+                                            such as proof of
                                             concept, site surveys, and large-scale implementations with a focus on clear
                                             scope definition, detailed planning, flexible execution, and thorough
                                             evaluation.</li>
