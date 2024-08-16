@@ -88,7 +88,8 @@
                                           <li>
                                               <a class="menu-item head-menu" href="#">Network Services</a>
                                               <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="#">Technology Deployments</a></li>
+                                                  <li><a class="menu-item" href="technology-deployments.php">Technology
+                                                          Deployments</a></li>
                                                   <li><a class="menu-item" href="cable-infastructure.php">Cabling
                                                           Infrastructure</a></li>
                                                   <li><a class="menu-item" href="#">Rack and Stack</a></li>
