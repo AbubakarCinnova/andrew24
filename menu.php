@@ -79,7 +79,8 @@
                                                   <li><a class="menu-item" href="#">Nurse Call</a></li>
                                                   <li><a class="menu-item" href="#">Wander Management Systems</a></li>
                                                   <li><a class="menu-item" href="#">Alarm Monitoring</a></li>
-                                                  <li><a class="menu-item" href="#">Fire Alarm Inspections/Testing</a>
+                                                  <li><a class="menu-item" href="fire-alarm-testing.php">Fire Alarm
+                                                          Inspections/Testing</a>
                                                   </li>
                                               </ul>
                                           </li>
