@@ -53,7 +53,7 @@
                                 <div class="col-lg-12">
 
                                     <!-- content start here -->
-                                    <h1>Commercial Fire Alarm Systems: Design, Installation, and Maintenance</h1>
+                                    <h2>Commercial Fire Alarm Systems: Design, Installation, and Maintenance</h2>
 
                                     <h2>Advanced Fire Safety Solutions for Your Business</h2>
                                     <p>At Andrew Casey Integration, we design, install, and maintain state-of-the-art
