@@ -211,7 +211,7 @@
                                     </ul>
 
 
-                                    <h1>Why Choose Andrew Casey Integration?</h1>
+                                    <h2>Why Choose Andrew Casey Integration?</h2>
                                     <p>Choosing Andrew Casey Integration means investing in a partner committed to the
                                         safety and security of your residents. Our team of experts works closely with
                                         you to design, install, and maintain a wander management system that fits
