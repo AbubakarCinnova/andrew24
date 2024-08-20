@@ -78,7 +78,8 @@
                                                   <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
                                                   <li><a class="menu-item" href="#">Nurse Call</a></li>
                                                   <li><a class="menu-item" href="#">Wander Management Systems</a></li>
-                                                  <li><a class="menu-item" href="#">Alarm Monitoring</a></li>
+                                                  <li><a class="menu-item" href="alarm-monitoring.php">Alarm
+                                                          Monitoring</a></li>
                                                   <li><a class="menu-item" href="fire-alarm-testing.php">Fire Alarm
                                                           Inspections/Testing</a>
                                                   </li>
