@@ -374,7 +374,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
                             <div>
                                 <i
-                                    class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                    class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Quality Parts</h4>
                                     <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
@@ -387,7 +387,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                             <div>
                                 <i
-                                    class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                    class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Emergency Services</h4>
                                     <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
@@ -400,7 +400,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1s">
                             <div>
                                 <i
-                                    class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                    class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Satisfaction Guarantee</h4>
                                     <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and

@@ -56,7 +56,7 @@
                     <div class="row g-5">
                         <!--  <div class="col-lg-3">
                             <a href="installation.php"
-                                class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
+                                class="bg-color text-light d-block p-3 px-4 rounded-10px mb-3 relative">
                                 <h4 class="mb-0">Installation</h4><i
                                     class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
                             </a>
@@ -189,7 +189,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4> Transparent Pricing</h4>
                                             <p class="mb-0">Clear, upfront costs with no hidden fees, for
@@ -214,7 +214,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".6s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Project Management</h4>
                                             <p class="mb-0">Precision project management for flawless execution and
@@ -238,7 +238,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="1s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Service First</h4>
                                             <p class="mb-0">Fully Committed to excellence with cutting-edge solutions

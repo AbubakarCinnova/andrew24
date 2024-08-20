@@ -215,7 +215,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4> Expert Technicians </h4>
                                             <p class="mb-0">Certified experts ensure precise testing, inspection, and
@@ -227,7 +227,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4> Transparent Pricing</h4>
                                             <p class="mb-0">Clear, upfront costs with no hidden fees, make it easy to
@@ -258,7 +258,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".6s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Project Management</h4>
                                             <p class="mb-0">Flawless execution and timely delivery of your fire alarm
@@ -288,7 +288,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="1s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Service First</h4>
                                             <p class="mb-0">Committed to excellence with thorough inspections, detailed

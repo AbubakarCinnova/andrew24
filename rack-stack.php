@@ -139,7 +139,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4> Transparent Pricing</h4>
                                             <p class="mb-0">Clear, upfront pricing for all rack and stack services,
@@ -166,7 +166,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".6s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Project Management</h4>
                                             <p class="mb-0">Comprehensive management of rack and stack projects from
@@ -197,7 +197,7 @@
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="1s">
                                     <div>
                                         <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Service First</h4>
                                             <p class="mb-0">A customer-centric approach with tailored rack and stack
