@@ -74,7 +74,7 @@
                                           <li>
                                               <a class="menu-item head-menu" href="#">Fire & Life Safety</a>
                                               <ul class="sub-menu">
-                                                  <li><a class="menu-item" href="#">Fire Alarms</a></li>
+                                                  <li><a class="menu-item" href="fire-alarms.php">Fire Alarms</a></li>
                                                   <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
                                                   <li><a class="menu-item" href="#">Nurse Call</a></li>
                                                   <li><a class="menu-item" href="#">Wander Management Systems</a></li>
