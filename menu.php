@@ -76,7 +76,7 @@
                                               <ul class="sub-menu">
                                                   <li><a class="menu-item" href="fire-alarms.php">Fire Alarms</a></li>
                                                   <li><a class="menu-item" href="#">Mass Notification Systems</a></li>
-                                                  <li><a class="menu-item" href="#">Nurse Call</a></li>
+                                                  <li><a class="menu-item" href="nurse-call.php">Nurse Call</a></li>
                                                   <li><a class="menu-item" href="#">Wander Management Systems</a></li>
                                                   <li><a class="menu-item" href="alarm-monitoring.php">Alarm
                                                           Monitoring</a></li>
