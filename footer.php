@@ -75,7 +75,8 @@
                    <div class="col-md-12">
                        <div class="de-flex">
                            <div class="de-flex-col">
-                               Copyright 2024 - Andrew Casey Technologies
+                               &copy; 2024 Andrew Casey Integration. All rights reserved. Our detailed, original content
+                               is protected by copyright, and any unauthorized use is strictly prohibited.
                            </div>
                            <ul class="menu-simple">
                                <li><a href="#">Terms &amp; Conditions</a></li>
