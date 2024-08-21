@@ -33,9 +33,9 @@
                                 <li class="active">About Us</li>
                             </ul>
                         </div>
-                        <div class="col-lg-6 text-lg-end">
+                        <!--   <div class="col-lg-6 text-lg-end">
                             <div class="fs-20 fw-600 no-bottom sm-hide">Air Conditioning and Heating Specialists</div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="de-overlay"></div>
@@ -54,16 +54,15 @@
                     <div class="row gx-5 align-items-center">
                         <div class="col-lg-6">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
-                            <h2 class="wow fadeInUp" data-wow-delay=".2s">History of Our Company</h2>
-                            <p>Welcome to CoolAir, your trusted partner for all your HVAC needs. With years of industry
-                                experience and a commitment to excellence, we specialize in providing top-quality
-                                heating, ventilation, and air conditioning services tailored to your unique
-                                requirements. From installation and repair to maintenance and upgrades, our skilled
-                                technicians are dedicated to delivering reliable solutions that ensure your comfort and
-                                satisfaction. Sint excepteur laborum id nisi ullamco ut aliqua ut voluptate incididunt
-                                ut consequat nostrud incididunt sit ex dolor excepteur consequat non in exercitation
-                                laboris amet magna consequat irure esse elit ut eiusmod aliqua est non laboris in
-                                commodo mollit.</p>
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Who We Are</h2>
+                            <p>At Andrew Casey Integration, our family-owned heritage is more than just a tradition—it’s
+                                the foundation of our business philosophy. This dedication drives us to foster strong,
+                                personal relationships with our clients and deliver exceptional service. In contrast to
+                                many firms that prioritize short-term gains and transactional relationships, we are
+                                committed to building enduring partnerships through our focus on personal service and
+                                unwavering quality. Our approach sets us apart and ensures a steadfast commitment to
+                                long-term client satisfaction.
+                            </p>
                         </div>
 
                         <div class="col-lg-6">
@@ -98,7 +97,7 @@
                 </div>
             </section>
 
-            <section class="no-top">
+            <!--      <section class="no-top">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -188,56 +187,51 @@
                     </div>
                 </div>
             </section>
-
+ -->
             <section class="no-top">
                 <div class="container">
+
+                    <div class="row">
+                        <div class="col-12">
+                            <h2>Our Expertise</h2>
+                            <p>Our team comprises highly skilled professionals who bring extensive expertise to every
+                                project. From engineers and project managers to technicians and support staff, each
+                                member is selected for their exceptional skills and dedication to excellence. We invest
+                                in continuous training and development to stay at the forefront of industry
+                                advancements, enabling us to provide innovative and effective solutions tailored to our
+                                client's needs.</p>
+                        </div>
+                    </div>
+
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-6">
-                            <div class="mb-2 text-center">
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".0s">
-                                    <img src="images/logo/1.webp" class="img-fluid">
-                                </div>
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".2s">
-                                    <img src="images/logo/2.webp" class="img-fluid">
-                                </div>
-
-                                <div class="mb-2 sm-hide"></div>
-
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".4s">
-                                    <img src="images/logo/3.webp" class="img-fluid">
-                                </div>
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".6s">
-                                    <img src="images/logo/4.webp" class="img-fluid">
-                                </div>
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay=".8s">
-                                    <img src="images/logo/5.webp" class="img-fluid">
-                                </div>
-
-                                <div class="mb-2 sm-hide"></div>
-
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay="1s">
-                                    <img src="images/logo/6.webp" class="img-fluid">
-                                </div>
-                                <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
-                                    data-wow-delay="1.2s">
-                                    <img src="images/logo/1.webp" class="img-fluid">
-                                </div>
-                            </div>
+                            <img src="images/background/1.webp" class="img-fluid">
                         </div>
                         <div class="col-lg-5">
-                            <div class="subtitle wow fadeInUp mb-3">Services Process</div>
-                            <h2>The world brands we working with</h2>
+
+                            <h2>TService-First Philosophy</h2>
                             <div class="spacer-10"></div>
-                            <p>Velit veniam dolor veniam ea sunt consequat cupidatat dolore commodo mollit anim dolore
-                                ut velit aliqua anim amet enim aute culpa officia fugiat proident cillum pariatur
-                                eiusmod adipisicing enim non officia.</p>
-                            <a class="btn-main" href="#">Discover Plugins</a>
+                            <p>Central to our approach is our service-first philosophy. We are committed to not just
+                                meeting but exceeding client expectations through personalized and attentive service.
+                                From the initial consultation to project completion and beyond, we anticipate needs,
+                                address concerns proactively, and ensure every client experience is characterized by
+                                professionalism, integrity, and exceptional support.</p>
+                            <h2>Building Lasting Relationships</h2>
+                            <p>Our commitment to building lasting relationships is evident in everything we do. We take
+                                pride in creating long-term partnerships with our clients, founded on trust, respect,
+                                and mutual success. By consistently providing high-quality service and maintaining open,
+                                honest communication, we ensure that every client feels valued and supported throughout
+                                their journey with us.
+
+                            </p>
+                            <a class="btn-main" href="contact.php">Get Quote</a>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <p><strong>Experience the Andrew Casey Difference—Contact Us Today to Discover How We Build
+                                    Lasting Partnerships on a Foundation of Service.</strong></p>
                         </div>
                     </div>
                 </div>
