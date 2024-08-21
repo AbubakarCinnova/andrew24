@@ -117,10 +117,11 @@
                                                         <!--      <div class="subtitle s2 mb-2">Pure Comfort</div> -->
                                                         <h2 class="slider-title mb-3">Making Every Season Feel Just
                                                             Right</h2>
-                                                        <h3 class="slider-teaser mb-3">Solution for Comfort and
-                                                            Reliability</h3>
+                                                        <h3 class="slider-teaser mb-3">Experience the Andrew Casey
+                                                            Difference Building Lasting Partnerships Through Our
+                                                            Service-First Commitment.</h3>
                                                         <div class="spacer-10"></div>
-                                                        <a class="btn-main mb10 mb-3" href="contact.php">Get Quote</a>
+                                                        <a class="btn-main mb10 mb-3" href="contact.php">Get Service</a>
                                                     </div>
                                                 </div>
 
