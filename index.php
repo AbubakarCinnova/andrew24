@@ -373,8 +373,7 @@
 
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
                             <div>
-                                <i
-                                    class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Quality Parts</h4>
                                     <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
@@ -386,8 +385,7 @@
 
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                             <div>
-                                <i
-                                    class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Emergency Services</h4>
                                     <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
@@ -399,8 +397,7 @@
 
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1s">
                             <div>
-                                <i
-                                    class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Satisfaction Guarantee</h4>
                                     <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
@@ -873,12 +870,12 @@
 
                         <div class="col-md-12 wow fadeInUp">
                             <div id="owl-logo" class="logo-carousel no-alpha owl-carousel owl-theme">
-                                <img src="images/logo/1.webp" class="img-fluid px-4" alt="">
-                                <img src="images/logo/2.webp" class="img-fluid px-4" alt="">
-                                <img src="images/logo/3.webp" class="img-fluid px-4" alt="">
-                                <img src="images/logo/4.webp" class="img-fluid px-4" alt="">
+                                <img src="images/logo/altronix.png" class="img-fluid px-4" alt="">
+                                <img src="images/logo/BogenCommunications_blk.webp" class="img-fluid px-4" alt="">
+                                <img src="images/logo/Legrand_logo_PNG1-_1_.webp" class="img-fluid px-4" alt="">
+                                <img src="images/logo/paxton_nobg_500x200.webp" class="img-fluid px-4" alt="">
                                 <img src="images/logo/5.webp" class="img-fluid px-4" alt="">
-                                <img src="images/logo/6.webp" class="img-fluid px-4" alt="">
+
                             </div>
                         </div>
                     </div>
