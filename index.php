@@ -41,15 +41,14 @@
                                                 <div class="col-lg-8 offset-lg-2 text-center">
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
-                                                        <div class="subtitle s2 mb-2">Climate Care</div>
+                                                        <!--    <div class="subtitle s2 mb-2">Climate Care</div> -->
                                                         <h2 class="slider-title mb-3">Andrew Casey Integrated
                                                         </h2>
                                                         <h3 class="slider-teaser mb-3">Comprehensive Design-Build and
                                                             Service Solutions for Security, Fire, and Healthcare
                                                             Systems.</h3>
                                                         <div class="spacer-10"></div>
-                                                        <a class="btn-main mb10 mb-3" href="contact.php">Book a
-                                                            Repair</a>
+                                                        <a class="btn-main mb10 mb-3" href="contact.php">Get Quote</a>
                                                     </div>
                                                 </div>
 
@@ -115,21 +114,20 @@
                                                 <div class="col-lg-8 offset-lg-2 text-center">
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
-                                                        <div class="subtitle s2 mb-2">Pure Comfort</div>
+                                                        <!--      <div class="subtitle s2 mb-2">Pure Comfort</div> -->
                                                         <h2 class="slider-title mb-3">Making Every Season Feel Just
                                                             Right</h2>
                                                         <h3 class="slider-teaser mb-3">Solution for Comfort and
                                                             Reliability</h3>
                                                         <div class="spacer-10"></div>
-                                                        <a class="btn-main mb10 mb-3" href="contact.php">Book a
-                                                            Repair</a>
+                                                        <a class="btn-main mb10 mb-3" href="contact.php">Get Quote</a>
                                                     </div>
                                                 </div>
 
                                                 <div class="spacer-single"></div>
                                             </div>
 
-                                            <div class="row g-4 slider-extra sm-hide">
+                                            <!--   <div class="row g-4 slider-extra sm-hide">
                                                 <div class="col-lg-4 col-md-6 mb-sm-30">
                                                     <div class="relative">
                                                         <img src="images/icons/white/labor.webp"
@@ -169,7 +167,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-
+ -->
                                         </div>
                                     </div>
                                     <div class="sw-overlay s2"></div>
