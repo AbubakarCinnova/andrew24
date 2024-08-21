@@ -63,6 +63,13 @@
                                 unwavering quality. Our approach sets us apart and ensures a steadfast commitment to
                                 long-term client satisfaction.
                             </p>
+                            <h2>Our Expertise</h2>
+                            <p>Our team comprises highly skilled professionals who bring extensive expertise to every
+                                project. From engineers and project managers to technicians and support staff, each
+                                member is selected for their exceptional skills and dedication to excellence. We invest
+                                in continuous training and development to stay at the forefront of industry
+                                advancements, enabling us to provide innovative and effective solutions tailored to our
+                                client's needs.</p>
                         </div>
 
                         <div class="col-lg-6">
@@ -193,13 +200,7 @@
 
                     <div class="row g-4">
                         <div class="col-12">
-                            <h2>Our Expertise</h2>
-                            <p>Our team comprises highly skilled professionals who bring extensive expertise to every
-                                project. From engineers and project managers to technicians and support staff, each
-                                member is selected for their exceptional skills and dedication to excellence. We invest
-                                in continuous training and development to stay at the forefront of industry
-                                advancements, enabling us to provide innovative and effective solutions tailored to our
-                                client's needs.</p>
+
 
                             <h2>Service-First Philosophy</h2>
                             <p>Central to our approach is our service-first philosophy. We are committed to not just
