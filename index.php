@@ -115,8 +115,8 @@
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
                                                         <!--      <div class="subtitle s2 mb-2">Pure Comfort</div> -->
-                                                        <h2 class="slider-title mb-3">Making Every Season Feel Just
-                                                            Right</h2>
+                                                        <h2 class="slider-title mb-3">Building Lasting Partnerships
+                                                            Through Service</h2>
                                                         <h3 class="slider-teaser mb-3">Experience the Andrew Casey
                                                             Difference Building Lasting Partnerships Through Our
                                                             Service-First Commitment.</h3>
