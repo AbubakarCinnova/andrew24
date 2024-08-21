@@ -227,7 +227,7 @@
                 </div>
             </section>
 
-            <section class="no-top">
+            <!--     <section class="no-top">
                 <div class="container">
                     <div class="col-lg-12">
                         <div class="p-5 rounded-20px bg-color-2 text-light">
@@ -317,7 +317,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
         </div>
         <!-- content close -->
