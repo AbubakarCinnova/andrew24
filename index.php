@@ -502,7 +502,7 @@
                 </div>
             </section>
 
-            <section class="no-top text-center">
+            <!--     <section class="no-top text-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3 text-center">
@@ -719,7 +719,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
             <section class="bg-color-3">
                 <div class="container">
