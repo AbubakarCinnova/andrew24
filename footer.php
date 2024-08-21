@@ -6,9 +6,12 @@
                    <img src="images/ac-logo.png" style="width: 240px;
     filter: invert(10) saturate(0) brightness(3.5);" alt="">
                    <div class="spacer-20"></div>
-                   <p>We specialize in providing top-quality heating, ventilation, and air conditioning services
-                       tailored to your unique requirements. Our skilled technicians are dedicated to delivering
-                       reliable solutions that ensure your comfort and satisfaction.</p>
+                   <p>At Andrew Casey Integration, we specialize in fire alarms, video surveillance, access control, PA
+                       systems, nurse call, mass notification, and intercom system integration. We build lasting
+                       partnerships rooted in trust, quality, and exceptional service. Our family-owned heritage drives
+                       us to prioritize long-term client satisfaction, delivering personalized solutions through a
+                       service-first approach. Our skilled team is dedicated to exceeding expectations with integrity
+                       and professionalism in every project.</p>
 
                    <!--  <div class="social-icons mb-sm-30">
                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
