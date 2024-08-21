@@ -191,7 +191,7 @@
             <section class="no-top">
                 <div class="container">
 
-                    <div class="row">
+                    <div class="row g-4">
                         <div class="col-12">
                             <h2>Our Expertise</h2>
                             <p>Our team comprises highly skilled professionals who bring extensive expertise to every
@@ -200,6 +200,13 @@
                                 in continuous training and development to stay at the forefront of industry
                                 advancements, enabling us to provide innovative and effective solutions tailored to our
                                 client's needs.</p>
+
+                            <h2>Service-First Philosophy</h2>
+                            <p>Central to our approach is our service-first philosophy. We are committed to not just
+                                meeting but exceeding client expectations through personalized and attentive service.
+                                From the initial consultation to project completion and beyond, we anticipate needs,
+                                address concerns proactively, and ensure every client experience is characterized by
+                                professionalism, integrity, and exceptional support.</p>
                         </div>
                     </div>
 
@@ -208,15 +215,8 @@
                             <img src="images/background/1.webp" class="img-fluid">
                         </div>
                         <div class="col-lg-5">
-
-                            <h2>TService-First Philosophy</h2>
-                            <div class="spacer-10"></div>
-                            <p>Central to our approach is our service-first philosophy. We are committed to not just
-                                meeting but exceeding client expectations through personalized and attentive service.
-                                From the initial consultation to project completion and beyond, we anticipate needs,
-                                address concerns proactively, and ensure every client experience is characterized by
-                                professionalism, integrity, and exceptional support.</p>
                             <h2>Building Lasting Relationships</h2>
+                            <div class="spacer-10"></div>
                             <p>Our commitment to building lasting relationships is evident in everything we do. We take
                                 pride in creating long-term partnerships with our clients, founded on trust, respect,
                                 and mutual success. By consistently providing high-quality service and maintaining open,
@@ -228,7 +228,7 @@
                         </div>
                     </div>
 
-                    <div class="row">
+                    <div class="row g-4">
                         <div class="col-12">
                             <p><strong>Experience the Andrew Casey Difference—Contact Us Today to Discover How We Build
                                     Lasting Partnerships on a Foundation of Service.</strong></p>
