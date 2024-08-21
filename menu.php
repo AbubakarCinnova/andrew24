@@ -10,17 +10,17 @@
                                           9296</a></div>
                                   <div class="topbar-widget"><a href="#"><i
                                               class="icofont-envelope"></i>contact@coolair.com</a></div>
-                                  <div class="topbar-widget"><a href="#"><i class="icofont-wall-clock"></i>Mon - Fri
-                                          08.00 - 18.00</a></div>
+                                  <!--     <div class="topbar-widget"><a href="#"><i class="icofont-wall-clock"></i>Mon - Fri
+                                          08.00 - 18.00</a></div> -->
                               </div>
 
-                              <div class="social-icons">
+                              <!--   <div class="social-icons">
                                   <a href="#"><i class="fa-brands fa-facebook fa-lg"></i></a>
                                   <a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                                   <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
                                   <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>
                                   <a href="#"><i class="fa-brands fa-instagram fa-lg"></i></a>
-                              </div>
+                              </div> -->
                           </div>
                       </div>
                   </div>
