@@ -105,8 +105,7 @@
 
                             <!-- Slides -->
                             <div class="swiper-slide">
-                                <div class="swiper-inner"
-                                    data-bgimage="url(images/slider/Andrewcasey-group-photo (1).webp)">
+                                <div class="swiper-inner" data-bgimage="url(images/slider/slider2.webp)">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
