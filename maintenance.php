@@ -20,7 +20,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/fleetmanagement.webp" class="jarallax-img " alt="fleetmanagement">
+                <img src="images/background/" class="jarallax-img " alt="maintenance">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
@@ -54,7 +54,7 @@
 
                                     <!-- content start here -->
 
-                                    <h1>The Importance of Regular Maintenance</h1>
+                                    <h2>The Importance of Regular Maintenance</h2>
 
                                     <p>At Andrew Casey Integration, we understand that your business systems are
                                         essential for safety, security, and smooth operations. Our Maintenance Plans are
