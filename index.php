@@ -452,7 +452,7 @@
                 </div>
             </section>
  -->
-            <section class="no-top">
+            <section class="">
                 <div class="container">
                     <div class="row  gx-5 align-items-center">
                         <div class="col-lg-6">
@@ -799,7 +799,7 @@
             </section>
  -->
 
-            <section class=" relative ">
+            <section class=" relative no-top">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
