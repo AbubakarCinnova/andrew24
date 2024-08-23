@@ -381,7 +381,7 @@
                 </div>
             </section>
 
-            <section class="no-top mt-100">
+            <!--      <section class="no-top mt-100">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -407,9 +407,9 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
-            <section class="no-top">
+            <!--    <section class="no-top">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3 text-center">
@@ -451,7 +451,7 @@
                     </div>
                 </div>
             </section>
-
+ -->
             <section class="no-top">
                 <div class="container">
                     <div class="row  gx-5 align-items-center">
@@ -721,7 +721,7 @@
                 </div>
             </section> -->
 
-            <section class="bg-color-3">
+            <!--   <section class="bg-color-3">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3 text-center">
@@ -797,7 +797,7 @@
                     </div>
                 </div>
             </section>
-
+ -->
 
             <section class=" relative ">
                 <div class="container">
@@ -805,7 +805,7 @@
                         <div class="col-lg-12">
                             <div class="rounded-20px bg-color  overflow-hidden">
                                 <div class="row align-items-center g-0">
-                                    <div class="col-lg-6">
+                                    <!--  <div class="col-lg-6">
                                         <div
                                             class="h-100 padding60 sm-padding40 overflow-hidden position-relative text-light jarallax">
                                             <div class="spacer-double"></div>
@@ -813,11 +813,12 @@
                                                 class="jarallax-img" alt="">
                                             <div class="spacer-double"></div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-6 text-center">
+                                    </div> -->
+                                    <div class="col-lg-12 text-center">
                                         <div class="h-100 text-light">
                                             <div class="spacer-double"></div>
                                             <div class="subtitle s2 mb-2">24 Hours &amp; Emergencies</div>
+                                            <h3 class="mb10 wow fadeInUp">Please Call Us At </h3>
                                             <h2 class="phone mb0 wow fadeInUp" data-wow-delay=".2s"><i
                                                     class="icofont-phone-circle"></i> +929 333 9296</h2>
                                             <div class="spacer-double"></div>
@@ -834,7 +835,7 @@
                 <div class="container">
                     <div class="row g-4">
                         <div class="col-lg-12 text-center wow fadeInUp">
-                            <h4 class="wow fadeInUp" data-wow-delay=".2s">Brands we working with</h4>
+                            <h4 class="wow fadeInUp" data-wow-delay=".2s">Our Partners </h4>
                         </div>
 
                         <div class="col-md-12 wow fadeInUp">
