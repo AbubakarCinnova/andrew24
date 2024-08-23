@@ -93,5 +93,5 @@ h2 {
 }
 
 .swiper-slide-active .slider-title {
-    letter-spacing: normal;
+    letter-spacing: normal !important;
 }
