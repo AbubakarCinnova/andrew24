@@ -91,3 +91,7 @@ h2 {
     padding: 220px 0 220px 0 !important;
     min-height: 550px;
 }
+
+.swiper-slide-active .slider-title {
+    letter-spacing: normal;
+}
