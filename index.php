@@ -191,7 +191,7 @@
                 </div>
             </section>
 
-            <section class="pt50 bg-color-3">
+            <section class="pt50 ">
                 <div class="container">
                     <div class="row align-items-center">
                         <!-- <div class="col-lg-6">
