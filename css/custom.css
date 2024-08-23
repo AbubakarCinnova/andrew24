@@ -96,3 +96,7 @@ h2 {
 h2.slider-title {
     letter-spacing: normal !important;
 }
+
+header #mainmenu li li a:hover {
+    color: #ffffff !important;
+}
