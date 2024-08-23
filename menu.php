@@ -97,8 +97,8 @@
                                                   <li><a class="menu-item" href="cable-infastructure.php">Cabling
                                                           Infrastructure</a></li>
                                                   <li><a class="menu-item" href="rack-stack.php">Rack and Stack</a></li>
-                                                  <li><a class="menu-item" href="smart-fleet.php">Smart Fleet
-                                                          Systems</a></li>
+                                                  <li><a class="menu-item" href="maintenance.php">Maintenance Plan</a>
+                                                  </li>
                                               </ul>
                                           </li>
 
