@@ -55,7 +55,7 @@
                                     <!-- content start here -->
 
 
-                                    <h1>Mass Notification Systems, Andrew Casey Integration</h1>
+                                    <h2>Mass Notification Systems, Andrew Casey Integration</h2>
 
                                     <p>At Andrew Casey Integration, we understand the critical importance of clear and
                                         timely communication during emergencies. Our Mass Notification Systems (MNS)
