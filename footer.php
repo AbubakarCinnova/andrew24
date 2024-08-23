@@ -6,12 +6,12 @@
                    <img src="images/ac-logo.png" style="width: 240px;
     filter: invert(10) saturate(0) brightness(3.5);" alt="">
                    <div class="spacer-20"></div>
-                   <p>At Andrew Casey Integration, we specialize in fire alarms, video surveillance, access control, PA
+                   <!--  <p>At Andrew Casey Integration, we specialize in fire alarms, video surveillance, access control, PA
                        systems, nurse call, mass notification, and intercom system integration. We build lasting
                        partnerships rooted in trust, quality, and exceptional service. Our family-owned heritage drives
                        us to prioritize long-term client satisfaction, delivering personalized solutions through a
                        service-first approach. Our skilled team is dedicated to exceeding expectations with integrity
-                       and professionalism in every project.</p>
+                       and professionalism in every project.</p> -->
 
                    <!--  <div class="social-icons mb-sm-30">
                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
