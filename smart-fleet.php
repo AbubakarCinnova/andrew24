@@ -19,7 +19,8 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/fleetmanagement.webp" class="jarallax-img" alt="fleetmanagement">
+                <img src="images/background/fleetmanagement.webp" class="jarallax-img inner-page-banner"
+                    alt="fleetmanagement">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
