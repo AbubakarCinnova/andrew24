@@ -82,3 +82,7 @@ h2 {
     display: flex;
     align-items: center;
 }
+
+.inner-page-banner {
+    object-position: 50% 100% !important;
+}
