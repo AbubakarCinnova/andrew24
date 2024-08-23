@@ -194,10 +194,10 @@
             <section class="pt50">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-lg-6">
+                        <!-- <div class="col-lg-6">
                             <img src="images/misc/handy-man.webp" class="img-fluid wow scaleIn" alt="">
-                        </div>
-                        <div class="col-lg-5 offset-lg-1">
+                        </div> -->
+                        <div class="col-lg-12 text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
                             <h2 class="wow fadeInUp">Air Conditioning and Heating Specialists</h2>
                             <p class="wow fadeInUp">Eu cupidatat sit dolore enim consequat veniam adipisicing et quis ut
