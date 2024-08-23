@@ -86,3 +86,8 @@ h2 {
 .inner-page-banner {
     object-position: 50% 100% !important;
 }
+
+#subheader {
+    padding: 220px 0 220px 0 !important;
+    min-height: 550px;
+}
