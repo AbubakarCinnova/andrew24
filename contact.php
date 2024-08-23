@@ -127,7 +127,8 @@
 
                             <div class="fw-bold text-dark"><i class="icofont-location-pin me-2 id-color-2"></i>Office
                                 Location</div>
-                            100 S Main St, New York, NY
+                            8535 N. Dixie Dr., Suite D <br>
+                            Dayton, Ohio 45414
 
                             <div class="spacer-single"></div>
 
