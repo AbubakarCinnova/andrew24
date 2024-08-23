@@ -835,7 +835,7 @@
                 <div class="container">
                     <div class="row g-4">
                         <div class="col-lg-12 text-center wow fadeInUp">
-                            <h4 class="wow fadeInUp" data-wow-delay=".2s">Our Partners </h4>
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Our Partners </h2>
                         </div>
 
                         <div class="col-md-12 wow fadeInUp">
