@@ -11,17 +11,17 @@
 
 /* Hide sub-menus initially */
 #mainmenu .sub-menu {
-    opacity: 0;
-    transition: opacity 1s ease, visibility 1s ease;
-    visibility: hidden;
+    opacity: 0 !important;
+    transition: opacity 1s ease, visibility 1s ease !important;
+    visibility: hidden !important;
 }
 
 /* Show sub-menus with a delay */
 #mainmenu li.menu-item-has-children:hover>.sub-menu {
-    opacity: 1;
-    transition-delay: 1s;
+    opacity: 1 !important;
+    transition-delay: 1s !important;
     /* Adjust the delay as needed */
-    visibility: visible;
+    visibility: visible !important;
 }
 
 
