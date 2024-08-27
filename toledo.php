@@ -145,9 +145,9 @@
                                     <p><a href="wander-management.php">Learn more about our wander management
                                             systems</a></p>
 
-                                    <h3>Our Services in Toledo, Ohio:</h3>
 
-                                    <h4>Fire Alarm and Life Safety Services:</h4>
+
+                                    <h4>Our Fire Alarm and Life Safety Services in Toledo, Ohio:</h4>
                                     <ul>
                                         <li>Fire Alarm Inspection and Testing</li>
                                         <li>Fire Alarms</li>
