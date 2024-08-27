@@ -23,29 +23,33 @@
                </div>
                <div class="col-lg-4 col-sm-12 order-lg-1 order-sm-2">
                    <div class="row">
-                       <div class="col-lg-6 col-sm-6">
+                       <div class="col-lg-12 col-sm-12">
                            <div class="widget">
                                <h5>Service Area</h5>
-                               <ul>
-                                   <li><a href="dayton.php">Dayton</a> </li>
-                                   <li><a href="columbus.php">Columbus</a> </li>
-                                   <li><a href="mansfield.php">Mansfield</a> </li>
-                                   <li><a href="cincinnati.php">Cincinnati</a> </li>
-                                   <li><a href="sidney.php">Sidney</a> </li>
-                                   <li><a href="marion.php">Marion</a> </li>
-                                   <li><a href="toledo.php">Toledo</a> </li>
+                               <div class="row">
+                                   <div class="col-md-6">
+                                       <ul>
+                                           <li><a href="dayton.php">Dayton</a> </li>
+                                           <li><a href="columbus.php">Columbus</a> </li>
+                                           <li><a href="mansfield.php">Mansfield</a> </li>
+                                           <li><a href="cincinnati.php">Cincinnati</a> </li>
+                                           <li><a href="sidney.php">Sidney</a> </li>
+                                           <li><a href="marion.php">Marion</a> </li>
+                                           <li><a href="toledo.php">Toledo</a> </li>
 
-                               </ul>
+                                       </ul>
+                                   </div>
+                                   <div class="col-md-6">
+                                       <ul>
+                                           <li><a href="lima.php">Lima</a> </li>
+
+                                       </ul>
+                                   </div>
+                               </div>
+
                            </div>
                        </div>
-                       <div class="col-lg-6 col-sm-6">
-                           <div class="widget">
-                               <br>
-                               <ul>
-                                   <li><a href="lima.php">Lima</a> </li>
-                               </ul>
-                           </div>
-                       </div>
+
                    </div>
                </div>
                <div class="col-lg-4 col-sm-6 order-lg-2 order-sm-1">
