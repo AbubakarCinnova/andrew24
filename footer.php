@@ -25,27 +25,17 @@
                    <div class="row">
                        <div class="col-lg-6 col-sm-6">
                            <div class="widget">
-                               <h5>Company</h5>
+                               <h5>Service Area</h5>
                                <ul>
-                                   <li><a href="#">Home</a></li>
-                                   <li><a href="#">Our Services</a></li>
-                                   <li><a href="#">Projects</a></li>
-                                   <li><a href="#">About Us</a></li>
-                                   <!-- <li><a href="#">News</a></li> -->
-                                   <li><a href="#">Contact</a></li>
+                                   <li><a href="dayton.php">Dayton</a> </li>
                                </ul>
                            </div>
                        </div>
                        <div class="col-lg-6 col-sm-6">
                            <div class="widget">
-                               <h5>Our Services</h5>
+                               <h5> </h5>
                                <ul>
-                                   <li><a href="#">Maintenace</a></li>
-                                   <li><a href="#">Repairs</a></li>
-                                   <li><a href="#">Installation</a></li>
-                                   <li><a href="#">Emergency</a></li>
-                                   <li><a href="#">Replacements</a></li>
-                                   <li><a href="#">Dust Cleaning</a></li>
+
                                </ul>
                            </div>
                        </div>
