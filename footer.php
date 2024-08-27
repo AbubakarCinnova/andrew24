@@ -45,7 +45,7 @@
                    <div class="widget">
                        <h5 class="id-color-2">24 Hours &amp; Emergencies</h5>
                        <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><i
-                               class="icofont-phone-circle id-color-2"></i> +929 333 9296</h2>
+                               class="icofont-phone-circle id-color-2"></i> (937) 280-4146</h2>
 
                        <div class="spacer-20"></div>
 

@@ -140,7 +140,7 @@
 
                             <div class="fw-bold text-dark"><i class="icofont-phone me-2 id-color-2"></i>Call Us Directly
                             </div>
-                            +929 333 9296
+                            (937) 280-4146
 
                             <div class="spacer-single"></div>
                         </div>
