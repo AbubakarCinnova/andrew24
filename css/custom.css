@@ -10,16 +10,18 @@
 }
 
 
-a.menu-item {
-    transition: 1s ease-in-out !important;
+/* Sub-menu transition (assuming it fades in) */
+ul.sub-menu {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out;
 }
 
-a.menu-item :hover {
-    transition: 1s ease-in-out !important;
-}
-
-a.menu-item .sub-menu {
-    transition: 1s ease-in-out !important;
+li:hover>ul.sub-menu {
+    display: block;
+    opacity: 1;
+    visibility: visible;
 }
 
 /* Styles for Sub-Menus */
