@@ -34,6 +34,7 @@
                                    <li><a href="sidney.php">Sidney</a> </li>
                                    <li><a href="marion.php">Marion</a> </li>
                                    <li><a href="toledo.php">Toledo</a> </li>
+                                   <li><a href="lima.php">Lima</a> </li>
                                </ul>
                            </div>
                        </div>
