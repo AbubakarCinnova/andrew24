@@ -28,6 +28,7 @@
                                <h5>Service Area</h5>
                                <ul>
                                    <li><a href="dayton.php">Dayton</a> </li>
+                                   <li><a href="columbus.php">Columbus</a> </li>
                                </ul>
                            </div>
                        </div>
