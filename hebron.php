@@ -128,7 +128,84 @@
                                         <li>Fire Alarms</li>
                                         <li>Alarm Monitoring</li>
                                         <li>Mass Notification Systems</li>
-                                        <li>Nurse Call
+                                        <li>Nurse Call Systems</li>
+                                        <li>Wander Management Systems</li>
+                                        <li>Emergency Lighting Systems</li>
+                                        <li>Fire Sprinkler System Monitoring</li>
+                                        <li>Smoke Control Systems</li>
+                                        <li>Carbon Monoxide Detection Systems</li>
+                                        <li>Voice Evacuation Systems</li>
+                                        <li>Fire and Life Safety System Integration with Building Management Systems
+                                            (BMS)</li>
+                                        <li>Sales, Service, Installation</li>
+                                    </ul>
+
+                                    <h3>Our Security Services in Hebron, KY:</h3>
+                                    <ul>
+                                        <li>Access Control</li>
+                                        <li>Security Surveillance Cameras</li>
+                                        <li>Video Intercom</li>
+                                        <li>License Plate Recognition (LPR) Systems</li>
+                                        <li>Behavioral Analytics</li>
+                                        <li>Visitor Management Systems</li>
+                                        <li>Remote Access Control Management</li>
+                                        <li>Emergency Communication Systems</li>
+                                        <li>Perimeter Intrusion Detection Systems (PIDS)</li>
+                                        <li>Biometric Access Control</li>
+                                        <li>Facial Recognition Systems</li>
+                                        <li>Drone Surveillance Integration</li>
+                                        <li>Key Management Systems</li>
+                                        <li>Access Control Integration with HVAC and Lighting Systems</li>
+                                        <li>Fire and Security System Integration</li>
+                                        <li>Smart Lock Systems</li>
+                                        <li>Artificial Intelligence (AI) Threat Detection</li>
+                                        <li>Real-Time Location Systems (RTLS)</li>
+                                        <li>Environmental Monitoring</li>
+                                        <li>Integrated Building Management Systems (BMS)</li>
+                                        <li>Wireless Mesh Networks</li>
+                                        <li>Automated Security Alerts and Notifications</li>
+                                        <li>Cloud-Based Video Storage and Analytics</li>
+                                        <li>Integrated Voice-Activated Security Controls</li>
+                                        <li>Sales, Service, Installation</li>
+                                    </ul>
+
+                                    <h3>Our Network Services in Hebron, KY:</h3>
+                                    <ul>
+                                        <li>Structured Cabling</li>
+                                        <li>Edge Systems</li>
+                                        <li>Technology Deployment</li>
+                                        <li>Rack and Stack</li>
+                                        <li>Fiber Optic Installation and Testing</li>
+                                        <li>Disaster Recovery Planning and Implementation</li>
+                                        <li>Sales, Service, Installation</li>
+                                    </ul>
+
+                                    <h3>Our Audio/Video Services in Hebron, KY:</h3>
+                                    <ul>
+                                        <li>PA Public Address Systems</li>
+                                        <li>School and University Intercom Systems</li>
+                                        <li>School and University Clocks</li>
+                                        <li>Digital Signage Integration</li>
+                                        <li>Video Conferencing Systems</li>
+                                        <li>Smart Classroom Technology</li>
+                                        <li>Audio-Visual Control Systems</li>
+                                        <li>Integrated Sound Systems for Auditoriums and Theaters</li>
+                                        <li>Wireless Presentation Systems</li>
+                                        <li>Interactive Whiteboards and Displays</li>
+                                        <li>Multi-Room Audio Systems</li>
+                                        <li>Video Wall Solutions</li>
+                                        <li>IP-Based Audio and Video Distribution</li>
+                                        <li>Sales, Service, Installation</li>
+                                    </ul>
+
+                                    <h2>Ready to Secure Your Hebron Facility?</h2>
+
+                                    <p>Take the first step toward enhancing the safety and efficiency of your facility
+                                        with Andrew Casey Integration. Whether you need advanced fire alarm systems,
+                                        cutting-edge access control, or comprehensive communication solutions, our team
+                                        is here to help. <a href="contact.php">Contact us today</a> to schedule a
+                                        consultation and discover how our tailored services can protect and optimize
+                                        your operations. Don’t wait—secure your future now!</p>
 
 
                                 </div>
