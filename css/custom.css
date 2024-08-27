@@ -10,19 +10,7 @@
 }
 
 
-/* Sub-menu transition (assuming it fades in) */
-ul.sub-menu {
-    display: none;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out;
-}
 
-li:hover>ul.sub-menu {
-    display: block;
-    opacity: 1;
-    visibility: visible;
-}
 
 /* Styles for Sub-Menus */
 .sub-menu {
