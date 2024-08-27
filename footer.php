@@ -99,17 +99,17 @@
    <script src="recaptcha.js"></script>
 
    <script>
-$(document).ready(function() {
+jQuery(document).ready(function() {
     // Hide all sub-menus initially
-    $('#mainmenu .sub-menu').hide();
+    jQuery('#mainmenu .sub-menu').hide();
 
     // Toggle the sub-menu on hover with a slide effect
-    $('#mainmenu li.menu-item-has-children').hover(
+    jQuery('#mainmenu li.menu-item-has-children').hover(
         function() {
-            $(this).children('.sub-menu').stop(true, true).slideDown(300); // Slide down over 300ms
+            jQuery(this).children('.sub-menu').stop(true, true).slideDown(300); // Slide down over 300ms
         },
         function() {
-            $(this).children('.sub-menu').stop(true, true).slideUp(300); // Slide up over 300ms
+            jQuery(this).children('.sub-menu').stop(true, true).slideUp(300); // Slide up over 300ms
         }
     );
 });
