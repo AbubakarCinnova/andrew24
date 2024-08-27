@@ -44,6 +44,7 @@
                                            <li><a href="lima.php">Lima</a> </li>
                                            <li><a href="chillicothe.php">Chillicothe</a> </li>
                                            <li><a href="hebron.php">Hebron,KY</a> </li>
+                                           <li><a href="findlay.php">Findlay</a> </li>
 
                                        </ul>
                                    </div>
