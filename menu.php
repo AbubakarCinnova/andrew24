@@ -97,8 +97,9 @@
                                                   <li><a class="menu-item" href="cable-infastructure.php">Cabling
                                                           Infrastructure</a></li>
                                                   <li><a class="menu-item" href="rack-stack.php">Rack and Stack</a></li>
-                                                  <li><a class="menu-item" href="maintenance.php">Maintenance Plan</a>
-                                                  </li>
+                                                  <li><a class="menu-item" href="smart-fleet.php">Smart Fleet
+                                                          Systems</a></li>
+
                                               </ul>
                                           </li>
 
@@ -125,7 +126,8 @@
 
                                   <li><a class="menu-item" href="design-build.php">Design Build</a></li>
                                   <li><a class="menu-item" href="about.php">About Us</a></li>
-                                  <li><a class="menu-item" href="smart-fleet.php">Smart Fleet Systems</a></li>
+                                  <li><a class="menu-item" href="maintenance.php">Maintenance Plan</a>
+                                  </li>
 
                                   <li><a class="menu-item" href="contact.php">Contact</a></li>
                               </ul>
