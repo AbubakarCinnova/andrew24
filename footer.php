@@ -106,10 +106,20 @@ jQuery(document).ready(function() {
     // Toggle the sub-menu on hover with a slide effect
     jQuery('#mainmenu li.menu-item-has-children').hover(
         function() {
-            jQuery(this).children('.sub-menu').stop(true, true).slideDown(300); // Slide down over 300ms
+            jQuery(this).find('.sub-menu').first().stop(true, true).slideDown(300); // Slide down over 300ms
         },
         function() {
-            jQuery(this).children('.sub-menu').stop(true, true).slideUp(300); // Slide up over 300ms
+            jQuery(this).find('.sub-menu').first().stop(true, true).slideUp(300); // Slide up over 300ms
+        }
+    );
+
+    // Ensure that hovering over sub-menu items doesn't immediately close the parent menu
+    jQuery('#mainmenu li.menu-item-has-children .sub-menu li').hover(
+        function() {
+            jQuery(this).parents('.sub-menu').stop(true, true).show(); // Keep the parent sub-menu open
+        },
+        function() {
+            // No action needed on mouse leave for sub-items
         }
     );
 });
