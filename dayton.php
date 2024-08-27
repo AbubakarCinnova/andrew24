@@ -233,7 +233,8 @@
                                     <p>Take the first step toward enhancing the safety and efficiency of your facility
                                         with Andrew Casey Integration. Whether you need advanced fire alarm systems,
                                         cutting-edge access control, or comprehensive communication solutions, our team
-                                        is here to help. Contact us today to schedule a consultation and discover how
+                                        is here to help. <a href="contact.php">Contact us today</a> to schedule a
+                                        consultation and discover how
                                         our tailored services can protect and optimize your operations. Don’t
                                         wait—secure your future now!</p>
 
