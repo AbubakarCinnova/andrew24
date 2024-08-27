@@ -10,6 +10,17 @@
 }
 
 
+a.menu-item {
+    transition: 1s ease-in-out !important;
+}
+
+a.menu-item :hover {
+    transition: 1s ease-in-out !important;
+}
+
+a.menu-item .sub-menu {
+    transition: 1s ease-in-out !important;
+}
 
 /* Styles for Sub-Menus */
 .sub-menu {
@@ -22,12 +33,11 @@
     background-color: #fff;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
     z-index: 1000;
-    transition: 1s ease-in-out;
 }
 
 li:hover>.sub-menu {
     display: block;
-    transition: 1s ease-in-out;
+
     /* Show sub-menu on hover */
 }
 
