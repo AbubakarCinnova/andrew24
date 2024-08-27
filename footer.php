@@ -46,6 +46,8 @@
                                            <li><a href="hebron.php">Hebron,KY</a> </li>
                                            <li><a href="findlay.php">Findlay</a> </li>
                                            <li><a href="wilmington.php">Wilmington</a> </li>
+                                           <li><a href="wilmington.php">Wilmington</a> </li>
+                                           <li><a href="springfield.php">Springfield</a> </li>
 
                                        </ul>
                                    </div>
