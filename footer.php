@@ -42,6 +42,7 @@
                                    <div class="col-md-6">
                                        <ul>
                                            <li><a href="lima.php">Lima</a> </li>
+                                           <li><a href="chillicothe.php">Chillicothe</a> </li>
 
                                        </ul>
                                    </div>
