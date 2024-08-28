@@ -270,7 +270,8 @@
                                 </div>
                                 <div class="padding40 bg-color text-light flex-grow-1 d-flex flex-column">
                                     <h4>Renewable Energy Integration</h4>
-                                    <p class="no-bottom">Optimizing Efficiency with Advanced Renewable Technologies.</p>
+                                    <p class="no-bottom">Optimizing Efficiency with <br> Advanced Renewable
+                                        Technologies.</p>
                                     <div class="spacer-20 mt-auto"></div>
                                     <a class="btn-main btn-dark-trans mt-auto"
                                         href="renewable-energy-integration.php">Read more</a>
