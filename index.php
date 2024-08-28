@@ -245,7 +245,7 @@
                                     <img src="images/misc/firealarm1000x665-min.webp" class="img-fluid"
                                         alt="fire-alarm">
                                 </div>
-                                <div class="padding40 bg-color text-light">
+                                <div class="padding40 bg-color text-light min-h-295">
                                     <h4>Fire Alarms </h4>
                                     <p class="no-bottom">Advanced Protection with <br> Unmatched Service</p>
                                     <div class="spacer-20"></div>
@@ -263,7 +263,7 @@
                                     <img src="images/misc/ourservices_access-control-1000X665.webp" class="img-fluid"
                                         alt="access-control">
                                 </div>
-                                <div class="padding40 bg-color text-light">
+                                <div class="padding40 bg-color text-light min-h-295">
                                     <h4>Access Control </h4>
                                     <p class="no-bottom">Advanced Solutions for <br>Secure Access.</p>
                                     <div class="spacer-20"></div>
@@ -281,7 +281,7 @@
                                     <img src="images/misc/ourservices_renewable-energy-1000X665v3-min.webp"
                                         class="img-fluid" alt="remarkeable">
                                 </div>
-                                <div class="padding40 bg-color text-light">
+                                <div class="padding40 bg-color text-light min-h-295">
                                     <h4>Renewable Energy Integration</h4>
                                     <p class="no-bottom">Optimizing Efficiency with Advanced Renewable Technologies.</p>
                                     <div class="spacer-20"></div>
