@@ -86,9 +86,7 @@
                                             <input type="text" name="phone" id="phone" class="form-control"
                                                 placeholder="Your Phone" required>
                                         </div>
-                                    </div>
 
-                                    <div class="col-lg-6 col-md-6">
                                         <div class="field-set">
                                             <span class="d-label">Company</span>
                                             <input type="text" name="Company" id="company" class="form-control"
@@ -100,6 +98,9 @@
                                             <input type="text" name="City" id="city" class="form-control"
                                                 placeholder="Your City" required>
                                         </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
 
                                         <div class="field-set">
                                             <span class="d-label">State</span>
