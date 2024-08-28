@@ -19,20 +19,26 @@
     visibility: hidden;
     position: absolute;
     left: 100%;
-    /* Align sub-menu to the right of the parent item */
-    top: 55px;
+    top: 0;
+    /* Align sub-menu at the top of the parent item */
     min-width: 200px;
     background-color: #fff;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
     z-index: 1000;
-    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out !important;
+    transition: opacity 0.2s ease-in-out, visibility 0.2s ease-in-out !important;
 }
 
 li:hover>.sub-menu {
     opacity: 1;
     visibility: visible;
-    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out !important;
-    /* Show sub-menu on hover */
+    transition: opacity 0.2s ease-in-out, visibility 0.2s ease-in-out !important;
+}
+
+li:hover>.sub-menu>li:hover>.sub-menu {
+    left: 100%;
+    /* Ensure the submenu aligns properly to the right */
+    top: 0;
+    /* Keep the submenu level with the parent */
 }
 
 
