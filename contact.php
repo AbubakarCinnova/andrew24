@@ -93,14 +93,16 @@
                                                 placeholder="Your Company" required>
                                         </div>
 
+
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+
                                         <div class="field-set">
                                             <span class="d-label">City</span>
                                             <input type="text" name="City" id="city" class="form-control"
                                                 placeholder="Your City" required>
                                         </div>
-                                    </div>
-
-                                    <div class="col-lg-6 col-md-6">
 
                                         <div class="field-set">
                                             <span class="d-label">State</span>
