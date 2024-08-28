@@ -309,9 +309,9 @@
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
                                     <h4>Expert Technicians</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <p class="mb-0">Our team brings extensive expertise in designing, installing, and
+                                        maintaining comprehensive security systems, including advanced integration with
+                                        access control and thermal cameras.</p>
                                 </div>
                             </div>
                         </div>
@@ -320,10 +320,9 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Flexible Scheduling</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Transparent Pricing</h4>
+                                    <p class="mb-0">We provide clear and upfront pricing with no hidden fees, making
+                                        budgeting and financial planning straightforward and hassle-free.</p>
                                 </div>
                             </div>
                         </div>
@@ -332,10 +331,10 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Transparent Pricing</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Emergency Services</h4>
+                                    <p class="mb-0">Our rapid response team is ready to address any issues quickly,
+                                        ensuring your security systems remain fully operational with minimal downtime.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -344,10 +343,10 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Quality Parts</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Project Management</h4>
+                                    <p class="mb-0">From initial design to final installation and ongoing maintenance,
+                                        we handle every aspect of your project with precision, ensuring flawless
+                                        execution and on-time delivery.</p>
                                 </div>
                             </div>
                         </div>
@@ -356,10 +355,10 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Emergency Services</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Top-Quality Products</h4>
+                                    <p class="mb-0">We use the latest technology and top-tier components to ensure your
+                                        security systems deliver exceptional performance and reliability over the long
+                                        term.</p>
                                 </div>
                             </div>
                         </div>
@@ -368,10 +367,10 @@
                             <div>
                                 <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                 <div class="pl-80">
-                                    <h4>Satisfaction Guarantee</h4>
-                                    <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                                        peace of
-                                        mind for your HVAC needs.</p>
+                                    <h4>Service First</h4>
+                                    <p class="mb-0">Our "Service First" approach ensures that your needs come first,
+                                        with tailored solutions and unmatched support to meet the highest standards of
+                                        safety and security.</p>
                                 </div>
                             </div>
                         </div>
