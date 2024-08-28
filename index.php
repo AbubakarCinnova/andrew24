@@ -239,13 +239,13 @@
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
                             <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
-                                    <img src="images/svg/air-conditioner-svgrepo-com.svg"
+                                    <!--    <img src="images/svg/air-conditioner-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color-3 rounded-10px absolute"
-                                        alt="">
+                                        alt=""> -->
                                     <img src="images/misc/firealarm1000x665-min.webp" class="img-fluid"
                                         alt="fire-alarm">
                                 </div>
-                                <div class="padding40 bg-color-3">
+                                <div class="padding40 bg-color">
                                     <h4>Fire Alarms </h4>
                                     <p class="no-bottom">Advanced Protection with <br> Unmatched Service</p>
                                     <div class="spacer-20"></div>
@@ -257,13 +257,13 @@
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                             <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
-                                    <img src="images/svg/wrench-line-svgrepo-com.svg"
+                                    <!-- <img src="images/svg/wrench-line-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color-2 rounded-10px absolute"
-                                        alt="">
+                                        alt=""> -->
                                     <img src="images/misc/ourservices_access-control-1000X665.webp" class="img-fluid"
                                         alt="access-control">
                                 </div>
-                                <div class="padding40 bg-color-2 text-light">
+                                <div class="padding40 bg-color text-light">
                                     <h4>Access Control </h4>
                                     <p class="no-bottom">Advanced Solutions for <br>Secure Access.</p>
                                     <div class="spacer-20"></div>
@@ -275,9 +275,9 @@
                         <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
                             <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
-                                    <img src="images/svg/completed-order-svgrepo-com.svg"
+                                    <!--  <img src="images/svg/completed-order-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color rounded-10px absolute"
-                                        alt="">
+                                        alt=""> -->
                                     <img src="images/misc/ourservices_renewable-energy-1000X665v3-min.webp"
                                         class="img-fluid" alt="remarkeable">
                                 </div>
