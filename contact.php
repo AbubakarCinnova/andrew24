@@ -89,6 +89,24 @@
                                     </div>
 
                                     <div class="col-lg-6 col-md-6">
+                                        <div class="field-set">
+                                            <span class="d-label">Company</span>
+                                            <input type="text" name="Company" id="company" class="form-control"
+                                                placeholder="Your Company" required>
+                                        </div>
+
+                                        <div class="field-set">
+                                            <span class="d-label">City</span>
+                                            <input type="text" name="City" id="city" class="form-control"
+                                                placeholder="Your City" required>
+                                        </div>
+
+                                        <div class="field-set">
+                                            <span class="d-label">State</span>
+                                            <input type="text" name="State" id="state" class="form-control"
+                                                placeholder="Your State" required>
+                                        </div>
+
                                         <div class="field-set mb20">
                                             <span class="d-label">Message</span>
                                             <textarea name="message" id="message" class="form-control"
