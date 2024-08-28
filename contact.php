@@ -155,7 +155,7 @@
 
                             <div class="fw-bold text-dark"><i class="icofont-envelope me-2 id-color-2"></i>Send a
                                 Message</div>
-                            contact@coolair.com
+                            info@AndrewCaseyIntegration.com
 
                             <div class="spacer-single"></div>
 
