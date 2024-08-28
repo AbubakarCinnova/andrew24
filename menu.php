@@ -57,6 +57,10 @@
 
                                   <li><a class="menu-item" href="#">Services</a>
                                       <ul class="first-sub-menu">
+
+                                          <li>
+                                              <a class="menu-item" href="services.php">Services Overview </a>
+                                          </li>
                                           <!-- Security Sub-Menu -->
                                           <li>
                                               <a class="menu-item head-menu" href="#">Security </a>
