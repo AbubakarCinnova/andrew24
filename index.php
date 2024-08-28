@@ -245,7 +245,7 @@
                                     <img src="images/misc/firealarm1000x665-min.webp" class="img-fluid"
                                         alt="fire-alarm">
                                 </div>
-                                <div class="padding40 bg-color">
+                                <div class="padding40 bg-color text-light">
                                     <h4>Fire Alarms </h4>
                                     <p class="no-bottom">Advanced Protection with <br> Unmatched Service</p>
                                     <div class="spacer-20"></div>
