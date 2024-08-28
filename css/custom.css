@@ -130,3 +130,8 @@ h2.slider-title {
 header #mainmenu li li a:hover {
     color: #ffffff !important;
 }
+
+
+#contact_form textarea {
+    height: 150px !important;
+}
