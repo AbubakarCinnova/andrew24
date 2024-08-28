@@ -199,12 +199,19 @@
                         </div> -->
                         <div class="col-lg-12 text-center">
                             <div class="subtitle wow fadeInUp mb-3">Welcome</div>
-                            <h2 class="wow fadeInUp">Air Conditioning and Heating Specialists</h2>
-                            <p class="wow fadeInUp">Eu cupidatat sit dolore enim consequat veniam adipisicing et quis ut
-                                in
-                                eiusmod consectetur dolore qui aliqua sunt culpa ad qui mollit et irure nisi laborum
-                                commodo
-                                minim commodo occaecat ut sint dolor mollit culpa excepteur magna pariatur.</p>
+                            <h2 class="wow fadeInUp">Leading the Way in Fire Alarms, Life Safety, and Security
+                                Technology</h2>
+                            <p class="wow fadeInUp">At Andrew Casey Integration, our family-owned heritage is the
+                                cornerstone of our "Service First" philosophy, driving us to build strong personal
+                                relationships with our clients. We specialize in providing advanced fire alarms,
+                                surveillance camera systems, and access control solutions tailored for commercial,
+                                healthcare, education, manufacturing, airport, and government facilities. Our approach
+                                emphasizes enduring partnerships through exceptional service, quality, and ongoing
+                                maintenance. Every aspect of our work, from design and installation to service and
+                                maintenance, is executed with precision and dedication, ensuring your operations are
+                                protected and optimized for the long term. Discover the difference our advanced
+                                technology, expertise, and commitment to lasting client satisfaction can make for your
+                                facility.</p>
                             <div class="spacer-10"></div>
                             <a class="btn-main wow fadeInUp" href="about.php">About Company</a>
                         </div>
@@ -297,9 +304,8 @@
                         <div class="col-lg-6 offset-lg-3 text-center">
                             <div class="subtitle bg-color-2 text-white wow fadeInUp mb-3">Top 6 Reasons</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Why Choose Us</h2>
-                            <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip ut
-                                dolore sit
-                                eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p>
+                            <p class="lead wow fadeInUp">Experience the Andrew Casey Difference Discover How We Build
+                                Lasting Partnerships on a Foundation of Service.</p>
                             <div class="spacer-single"></div>
                         </div>
                     </div>
