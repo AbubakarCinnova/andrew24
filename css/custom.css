@@ -28,7 +28,6 @@
     transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out !important;
 }
 
-li:hover>.sub-menu,
 .sub-menu:hover {
     opacity: 1;
     visibility: visible;
