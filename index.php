@@ -246,9 +246,9 @@
                                 </div>
                                 <div class="padding40 bg-color-3">
                                     <h4>Fire Alarms </h4>
-                                    <p class="no-bottom">Advanced Protection with Unmatched Service</p>
+                                    <p class="no-bottom">Advanced Protection with <br> Unmatched Service</p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-light-trans" href="installation.php">Read more</a>
+                                    <a class="btn-main btn-light-trans" href="fire-alarms.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -263,9 +263,9 @@
                                 </div>
                                 <div class="padding40 bg-color-2 text-light">
                                     <h4>Access Control </h4>
-                                    <p class="no-bottom">Advanced Solutions for Secure Access.</p>
+                                    <p class="no-bottom">Advanced Solutions for <br>Secure Access.</p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-dark-trans" href="repair.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="access-control.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -282,7 +282,8 @@
                                     <h4>Renewable Energy Integration</h4>
                                     <p class="no-bottom">Optimizing Efficiency with Advanced Renewable Technologies.</p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-dark-trans" href="maintenance.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="renewable-energy-integration.php">Read
+                                        more</a>
                                 </div>
                             </div>
 
