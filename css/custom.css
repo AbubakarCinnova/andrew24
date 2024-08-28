@@ -14,7 +14,7 @@
 
 
 /* Styles for Sub-Menus */
-.sub-menu {
+.head-menu>.sub-menu {
     opacity: 0;
     visibility: hidden;
     position: absolute;
@@ -25,10 +25,10 @@
     background-color: #fff;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
     z-index: 1000;
-    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out !important;
+
 }
 
-li:hover>.sub-menu {
+li:hover>.head-menu>.sub-menu {
     opacity: 1;
     visibility: visible;
     transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out !important;
