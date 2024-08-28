@@ -56,7 +56,7 @@
                                   </li>
 
                                   <li><a class="menu-item" href="#">Services</a>
-                                      <ul class="sub-menu first-sub-menu">
+                                      <ul class="first-sub-menu">
                                           <!-- Security Sub-Menu -->
                                           <li>
                                               <a class="menu-item head-menu" href="#">Security </a>
