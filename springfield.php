@@ -3,7 +3,6 @@
 <title>Fire Alarm Systems, Access Control, Surveillance &amp; Nurse Call in Springfield, OH</title>
 
 
-
 <meta name="description"
     content=" Andrew Casey Integration provides advanced fire alarm systems, access control, surveillance cameras, and nurse call solutions in Springfield, OH. Tailored for educational, healthcare, and commercial facilities.">
 
