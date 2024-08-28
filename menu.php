@@ -142,7 +142,7 @@
                           </div>
                           <div class="de-flex-col">
                               <div class="menu_side_area">
-                                  <a href="contact.php" class="btn-main bg-color-2">Request Estimate</a>
+                                  <a href="contact.php" class="btn-main bg-color-2">Get Quote</a>
                                   <span id="menu-btn"></span>
                               </div>
                           </div>
