@@ -228,66 +228,77 @@
                     <div class="row g-4 justify-content-center">
                         <div class="row">
                             <div class="col-lg-6 offset-lg-3 text-center">
+                                <!--   <div class="subtitle bg-color-3 wow fadeInUp mb-3">Complete Solutions</div> -->
                                 <h2 class="wow fadeInUp" data-wow-delay=".2s">Our Services</h2>
+                                <!--     <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip
+                                    ut dolore
+                                    sit eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p> -->
                             </div>
                         </div>
 
-                        <div class="col-lg-4 col-md-6 d-flex wow fadeInRight" data-wow-delay="0s">
-                            <div class="rounded-20px overflow-hidden d-flex flex-column">
+                        <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
+                            <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
+                                    <!--    <img src="images/svg/air-conditioner-svgrepo-com.svg"
+                                        class="w-70px mb20 top-30px start-30px p-2 bg-color-3 rounded-10px absolute"
+                                        alt=""> -->
                                     <img src="images/misc/firealarm1000x665-min.webp" class="img-fluid"
                                         alt="fire-alarm">
                                 </div>
-                                <div class="padding40 bg-color text-light flex-grow-1 d-flex flex-column">
+                                <div class="padding40 bg-color text-light">
                                     <h4>Fire Alarms </h4>
                                     <p class="no-bottom">Advanced Protection with <br> Unmatched Service</p>
-                                    <div class="spacer-20 mt-auto"></div>
-                                    <a class="btn-main btn-dark-trans mt-auto" href="fire-alarms.php">Read more</a>
+                                    <div class="spacer-20"></div>
+                                    <a class="btn-main btn-dark-trans" href="fire-alarms.php">Read more</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-lg-4 col-md-6 d-flex wow fadeInRight" data-wow-delay=".2s">
-                            <div class="rounded-20px overflow-hidden d-flex flex-column">
+                        <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                            <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
+                                    <!-- <img src="images/svg/wrench-line-svgrepo-com.svg"
+                                        class="w-70px mb20 top-30px start-30px p-2 bg-color-2 rounded-10px absolute"
+                                        alt=""> -->
                                     <img src="images/misc/ourservices_access-control-1000X665.webp" class="img-fluid"
                                         alt="access-control">
                                 </div>
-                                <div class="padding40 bg-color text-light flex-grow-1 d-flex flex-column">
+                                <div class="padding40 bg-color text-light">
                                     <h4>Access Control </h4>
                                     <p class="no-bottom">Advanced Solutions for <br>Secure Access.</p>
-                                    <div class="spacer-20 mt-auto"></div>
-                                    <a class="btn-main btn-dark-trans mt-auto" href="access-control.php">Read more</a>
+                                    <div class="spacer-20"></div>
+                                    <a class="btn-main btn-dark-trans" href="access-control.php">Read more</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-lg-4 col-md-6 d-flex wow fadeInRight" data-wow-delay=".4s">
-                            <div class="rounded-20px overflow-hidden d-flex flex-column">
+                        <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
+                            <div class="rounded-20px overflow-hidden">
                                 <div class="relative">
+                                    <!--  <img src="images/svg/completed-order-svgrepo-com.svg"
+                                        class="w-70px mb20 top-30px start-30px p-2 bg-color rounded-10px absolute"
+                                        alt=""> -->
                                     <img src="images/misc/ourservices_renewable-energy-1000X665v3-min.webp"
-                                        class="img-fluid" alt="renewable energy">
+                                        class="img-fluid" alt="remarkeable">
                                 </div>
-                                <div class="padding40 bg-color text-light flex-grow-1 d-flex flex-column">
+                                <div class="padding40 bg-color text-light">
                                     <h4>Renewable Energy Integration</h4>
-                                    <p class="no-bottom">Optimizing Efficiency with <br> Advanced Renewable
-                                        Technologies.</p>
-                                    <div class="spacer-20 mt-auto"></div>
-                                    <a class="btn-main btn-dark-trans mt-auto"
-                                        href="renewable-energy-integration.php">Read more</a>
+                                    <p class="no-bottom">Optimizing Efficiency with Advanced Renewable Technologies.</p>
+                                    <div class="spacer-20"></div>
+                                    <a class="btn-main btn-dark-trans" href="renewable-energy-integration.php">Read
+                                        more</a>
                                 </div>
                             </div>
+
                         </div>
 
                         <div class="col-12 wow fadeInUp text-center pt-4">
                             <a class="btn-main btn-dark" href="services.php">View All Services <i
-                                    class="icofont-long-arrow-right"></i></a>
+                                    class="icofont-long-arrow-right"></i> </a>
                         </div>
                     </div>
                 </div>
             </section>
-
-
 
             <section class="bg-color-3">
                 <div class="container">
