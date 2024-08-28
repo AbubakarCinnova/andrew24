@@ -64,7 +64,7 @@
                                     <p><strong>Access Control</strong><br>
                                         Secure your facility with advanced systems, including biometric scanners, mobile
                                         access, and more.<br>
-                                        <a href="#">Learn more about our Access Control Systems</a>
+                                        <a href="access-control.php">Learn more about our Access Control Systems</a>
                                     </p>
 
                                     <br>
@@ -72,7 +72,7 @@
                                     <p><strong>Surveillance Cameras</strong><br>
                                         High-definition systems are designed to provide comprehensive monitoring and
                                         peace of mind.<br>
-                                        <a href="#">Learn more about our Surveillance Cameras</a>
+                                        <a href="surveillance-cameras.php">Learn more about our Surveillance Cameras</a>
                                     </p>
 
                                     <br>
@@ -80,7 +80,7 @@
                                     <p><strong>Smart Fleet Systems</strong><br>
                                         Enhance fleet management with advanced technology solutions tailored to your
                                         operational needs.<br>
-                                        <a href="#">Learn more about our Smart Fleet Systems</a>
+                                        <a href="smart-fleet.php">Learn more about our Smart Fleet Systems</a>
                                     </p>
 
                                     <h3>Life Safety Systems</h3>
@@ -88,7 +88,7 @@
                                     <p><strong>Fire Alarms</strong><br>
                                         State-of-the-art systems that offer rapid detection and reliable performance for
                                         ultimate protection.<br>
-                                        <a href="#">Learn more about our Fire Alarm Systems</a>
+                                        <a href="fire-alarms.php">Learn more about our Fire Alarm Systems</a>
                                     </p>
 
                                     <br>
@@ -96,14 +96,16 @@
                                     <p><strong>Fire Alarm Inspection and Testing</strong><br>
                                         Ensure your systems are functioning optimally with our comprehensive inspection
                                         and testing services.<br>
-                                        <a href="#">Learn more about our Fire Alarm Inspection and Testing</a>
+                                        <a href="fire-alarm-testing.php">Learn more about our Fire Alarm Inspection and
+                                            Testing</a>
                                     </p>
 
                                     <br>
 
                                     <p><strong>Alarm Monitoring</strong><br>
                                         Continuous monitoring to provide immediate response and ensure safety.<br>
-                                        <a href="#">Learn more about our Alarm Monitoring Services</a>
+                                        <a href="alarm-monitoring.php">Learn more about our Alarm Monitoring
+                                            Services</a>
                                     </p>
 
                                     <br>
@@ -111,7 +113,7 @@
                                     <p><strong>Nurse Call Systems</strong><br>
                                         Reliable and efficient communication systems that enhance patient care in
                                         healthcare facilities.<br>
-                                        <a href="#">Learn more about our Nurse Call Systems</a>
+                                        <a href="nurse-call.php">Learn more about our Nurse Call Systems</a>
                                     </p>
 
                                     <br>
@@ -119,7 +121,8 @@
                                     <p><strong>Mass Notification Systems</strong><br>
                                         Ensure your facility is prepared for any emergency with our advanced
                                         systems.<br>
-                                        <a href="#">Learn more about our Mass Notification Systems</a>
+                                        <a href="mass-notification.php">Learn more about our Mass Notification
+                                            Systems</a>
                                     </p>
 
                                     <br>
@@ -127,7 +130,8 @@
                                     <p><strong>Wander Management Systems</strong><br>
                                         Protect vulnerable residents in healthcare settings with our advanced
                                         solutions.<br>
-                                        <a href="#">Learn more about our Wander Management Systems</a>
+                                        <a href="wander-management.php">Learn more about our Wander Management
+                                            Systems</a>
                                     </p>
 
                                     <h3>Communication Systems</h3>
@@ -135,7 +139,7 @@
                                     <p><strong>PA Systems</strong><br>
                                         Broadcast clear, reliable messages across your facility with our high-quality
                                         systems.<br>
-                                        <a href="#">Learn more about our PA Systems</a>
+                                        <a href="pa-system.php">Learn more about our PA Systems</a>
                                     </p>
 
                                     <br>
@@ -143,7 +147,7 @@
                                     <p><strong>Intercom Systems</strong><br>
                                         Seamless communication across campuses and large facilities with our integrated
                                         solutions.<br>
-                                        <a href="#">Learn more about our Intercom Systems</a>
+                                        <a href="intercom-systems.php">Learn more about our Intercom Systems</a>
                                     </p>
 
                                     <br>
@@ -151,7 +155,7 @@
                                     <p><strong>School/University Clocks</strong><br>
                                         Keep your educational facility synchronized with precision systems designed for
                                         schools and universities.<br>
-                                        <a href="#">Learn more about our School/University Clocks</a>
+                                        <a href="school-clock.php">Learn more about our School/University Clocks</a>
                                     </p>
 
                                     <br>
@@ -159,7 +163,7 @@
                                     <p><strong>Sound Masking Systems</strong><br>
                                         Create a more comfortable and confidential environment with our advanced
                                         solutions.<br>
-                                        <a href="#">Learn more about our Sound Masking Systems</a>
+                                        <a href="sound-masking.php">Learn more about our Sound Masking Systems</a>
                                     </p>
 
                                     <h3>Technology Services</h3>
@@ -167,14 +171,15 @@
                                     <p><strong>Structured Cabling</strong><br>
                                         Reliable infrastructure for robust network performance and future
                                         scalability.<br>
-                                        <a href="#">Learn more about our Structured Cabling Services</a>
+                                        <a href="cable-infastructure.php">Learn more about our Structured Cabling
+                                            Services</a>
                                     </p>
 
                                     <br>
 
                                     <p><strong>Rack and Stack</strong><br>
                                         Efficiently organize your IT equipment with our professional services.<br>
-                                        <a href="#">Learn more about our Rack and Stack Services</a>
+                                        <a href="rack-stack.php">Learn more about our Rack and Stack Services</a>
                                     </p>
 
                                     <br>
@@ -182,7 +187,8 @@
                                     <p><strong>Technology Deployments</strong><br>
                                         Streamline your technology rollouts with our comprehensive services, ensuring
                                         minimal disruption.<br>
-                                        <a href="#">Learn more about our Technology Deployments</a>
+                                        <a href="technology-deployments.php">Learn more about our Technology
+                                            Deployments</a>
                                     </p>
 
                                     <br>
@@ -190,7 +196,7 @@
                                     <p><strong>Design Build</strong><br>
                                         From concept to completion, we offer full services tailored to your specific
                                         requirements.<br>
-                                        <a href="#">Learn more about our Design-Build Services</a>
+                                        <a href="design-build.php">Learn more about our Design-Build Services</a>
                                     </p>
 
                                     <h3>Energy Solutions</h3>
@@ -198,16 +204,18 @@
                                     <p><strong>Renewable Energy Integration Solutions</strong><br>
                                         Integrate sustainable energy sources into your facility with our expert
                                         solutions, including solar, wind, and battery storage systems.<br>
-                                        <a href="#">Learn more about our Renewable Energy Integration Solutions</a>
+                                        <a href="renewable-energy-integration.php">Learn more about our Renewable Energy
+                                            Integration Solutions</a>
                                     </p>
 
                                     <h3>Maintenance Plans</h3>
 
-                                    <p><strong>Maintenance Plans</strong><br>
+                                    <p><strong>Maintenance Plans</strong>
                                         Protect your investment and ensure long-term reliability with our customized
                                         plans.<br>
-                                        <a href="#">Learn more about our Maintenance Plans</a>
+                                        <a href="maintenance.php">Learn more about our Maintenance Plans</a>
                                     </p>
+
 
                                     <h3>Why Choose Andrew Casey Integration?</h3>
                                     <p>Experience the difference of a family-owned business that prioritizes long-term
