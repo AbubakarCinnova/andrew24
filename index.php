@@ -42,7 +42,7 @@
                                                     <div class="spacer-single"></div>
                                                     <div class="sw-text-wrapper">
                                                         <!--    <div class="subtitle s2 mb-2">Climate Care</div> -->
-                                                        <h2 class="slider-title mb-3">Andrew Casey Integrated
+                                                        <h2 class="slider-title mb-3">Andrew Casey Integration
                                                         </h2>
                                                         <h3 class="slider-teaser mb-3">Comprehensive Design-Build and
                                                             Service Solutions for Security, Fire, and Healthcare
