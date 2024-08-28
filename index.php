@@ -249,7 +249,7 @@
                                     <h4>Fire Alarms </h4>
                                     <p class="no-bottom">Advanced Protection with <br> Unmatched Service</p>
                                     <div class="spacer-20"></div>
-                                    <a class="btn-main btn-light-trans" href="fire-alarms.php">Read more</a>
+                                    <a class="btn-main btn-dark-trans" href="fire-alarms.php">Read more</a>
                                 </div>
                             </div>
                         </div>
