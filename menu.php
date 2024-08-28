@@ -6,7 +6,8 @@
                       <div class="col-lg-12">
                           <div class="d-flex justify-content-between xs-hide">
                               <div class="header-widget d-flex">
-                                  <div class="topbar-widget"><a href="+19372804146"><i class="icofont-phone"></i>(937)
+                                  <div class="topbar-widget"><a href="tel:+19372804146"><i
+                                              class="icofont-phone"></i>(937)
                                           280-4146</a></div>
                                   <div class="topbar-widget"><a href="#"><i
                                               class="icofont-envelope"></i>contact@coolair.com</a></div>
