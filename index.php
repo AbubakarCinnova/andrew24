@@ -293,7 +293,7 @@
                         </div>
 
                         <div class="col-12 wow fadeInUp text-center pt-4">
-                            <a class="btn-main btn-dark" href="services.php">View All <i
+                            <a class="btn-main btn-dark" href="services.php">View All Services <i
                                     class="icofont-long-arrow-right"></i> </a>
                         </div>
                     </div>
