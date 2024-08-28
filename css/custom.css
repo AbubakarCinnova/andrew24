@@ -19,7 +19,7 @@
     visibility: hidden;
     position: absolute;
     left: 100%;
-    top: 0;
+    top: 55px;
     /* Adjusted to align sub-menu at the top of the parent item */
     min-width: 200px;
     background-color: #fff;
