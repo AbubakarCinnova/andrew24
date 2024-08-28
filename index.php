@@ -228,11 +228,11 @@
                     <div class="row g-4 justify-content-center">
                         <div class="row">
                             <div class="col-lg-6 offset-lg-3 text-center">
-                                <div class="subtitle bg-color-3 wow fadeInUp mb-3">Complete Solutions</div>
+                                <!--   <div class="subtitle bg-color-3 wow fadeInUp mb-3">Complete Solutions</div> -->
                                 <h2 class="wow fadeInUp" data-wow-delay=".2s">Our Services</h2>
-                                <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip
+                                <!--     <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip
                                     ut dolore
-                                    sit eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p>
+                                    sit eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p> -->
                             </div>
                         </div>
 
@@ -245,10 +245,8 @@
                                     <img src="images/misc/services-1.webp" class="img-fluid" alt="">
                                 </div>
                                 <div class="padding40 bg-color-3">
-                                    <h4>Installation</h4>
-                                    <p class="no-bottom">Trust us to deliver reliable solutions, exceptional service,
-                                        and peace
-                                        of mind for all your HVAC needs. </p>
+                                    <h4>Fire Alarms </h4>
+                                    <p class="no-bottom">Advanced Protection with Unmatched Service</p>
                                     <div class="spacer-20"></div>
                                     <a class="btn-main btn-light-trans" href="installation.php">Read more</a>
                                 </div>
@@ -264,10 +262,8 @@
                                     <img src="images/misc/services-2.webp" class="img-fluid" alt="">
                                 </div>
                                 <div class="padding40 bg-color-2 text-light">
-                                    <h4>Repair</h4>
-                                    <p class="no-bottom">Trust us to deliver reliable solutions, exceptional service,
-                                        and peace
-                                        of mind for all your HVAC needs. </p>
+                                    <h4>Access Control </h4>
+                                    <p class="no-bottom">Advanced Solutions for Secure Access.</p>
                                     <div class="spacer-20"></div>
                                     <a class="btn-main btn-dark-trans" href="repair.php">Read more</a>
                                 </div>
@@ -283,10 +279,8 @@
                                     <img src="images/misc/services-3.webp" class="img-fluid" alt="">
                                 </div>
                                 <div class="padding40 bg-color text-light">
-                                    <h4>Maintenance</h4>
-                                    <p class="no-bottom">Trust us to deliver reliable solutions, exceptional service,
-                                        and peace
-                                        of mind for all your HVAC needs. </p>
+                                    <h4>Renewable Energy Integration</h4>
+                                    <p class="no-bottom">Optimizing Efficiency with Advanced Renewable Technologies.</p>
                                     <div class="spacer-20"></div>
                                     <a class="btn-main btn-dark-trans" href="maintenance.php">Read more</a>
                                 </div>

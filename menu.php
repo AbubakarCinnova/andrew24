@@ -92,6 +92,9 @@
                                           <li>
                                               <a class="menu-item head-menu" href="#">Network Services</a>
                                               <ul class="sub-menu">
+                                                  <li><a class="menu-item"
+                                                          href="renewable-energy-integration.php">Renewable Energy
+                                                          Integration</a></li>
                                                   <li><a class="menu-item" href="technology-deployments.php">Technology
                                                           Deployments</a></li>
                                                   <li><a class="menu-item" href="cable-infastructure.php">Cabling
