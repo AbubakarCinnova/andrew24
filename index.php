@@ -461,24 +461,22 @@
                 <div class="container">
                     <div class="row  gx-5 align-items-center">
                         <div class="col-lg-6">
-                            <div class="subtitle wow fadeInUp mb-3">Our Specialize</div>
-                            <h2 class="wow fadeInUp" data-wow-delay=".2s">From Chilling Challenges to Heating Solutions
+                            <!--  <div class="subtitle wow fadeInUp mb-3">Our Specialize</div> -->
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering Exceptional Results, Project After
+                                Project
                             </h2>
-                            <p class="wow fadeInUp">Welcome to CoolAir, your trusted partner for all your HVAC needs.
-                                With years
-                                of industry experience and a commitment to excellence, we specialize in providing
-                                top-quality
-                                heating, ventilation, and air conditioning services tailored to your unique
-                                requirements. From
-                                installation and repair to maintenance and upgrades, our skilled technicians are
-                                dedicated to
-                                delivering reliable solutions that ensure your comfort and satisfaction.</p>
+                            <p class="wow fadeInUp">Andrew Casey Integration has a proven track record of completing
+                                projects across a wide range of industries. Our commitment to excellence and attention
+                                to detail ensures that every project is handled with the utmost professionalism,
+                                providing our clients with reliable and advanced solutions tailored to their unique
+                                needs.</p>
                         </div>
 
                         <div class="col-lg-6">
                             <div class="row g-4">
                                 <div class="col-6">
-                                    <img src="images/misc/9.webp" class="img-fluid rounded-10 mb-4 wow scaleIn" alt="">
+                                    <img src="images/misc/camera750x750.webp"
+                                        class="img-fluid rounded-10 mb-4 wow scaleIn" alt="project-img-1">
                                     <div class="col-12 text-center">
                                         <div class="bg-color text-light px-4 pt30 pb10 rounded-10 wow fadeInLeft">
                                             <div class="de_count">
@@ -498,7 +496,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <img src="images/misc/8.webp" class="img-fluid rounded-10 mt-4 wow scaleIn" alt="">
+                                    <img src="images/misc/project-img-2.webp"
+                                        class="img-fluid rounded-10 mt-4 wow scaleIn" alt="project-img-2">
                                 </div>
                             </div>
                         </div>
