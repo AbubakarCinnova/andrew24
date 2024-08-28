@@ -242,7 +242,8 @@
                                     <img src="images/svg/air-conditioner-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color-3 rounded-10px absolute"
                                         alt="">
-                                    <img src="images/misc/services-1.webp" class="img-fluid" alt="">
+                                    <img src="images/misc/firealarm1000x665-min.webp" class="img-fluid"
+                                        alt="fire-alarm">
                                 </div>
                                 <div class="padding40 bg-color-3">
                                     <h4>Fire Alarms </h4>
@@ -259,7 +260,8 @@
                                     <img src="images/svg/wrench-line-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color-2 rounded-10px absolute"
                                         alt="">
-                                    <img src="images/misc/services-2.webp" class="img-fluid" alt="">
+                                    <img src="images/misc/ourservices_access-control-1000X665.webp" class="img-fluid"
+                                        alt="access-control">
                                 </div>
                                 <div class="padding40 bg-color-2 text-light">
                                     <h4>Access Control </h4>
@@ -276,7 +278,8 @@
                                     <img src="images/svg/completed-order-svgrepo-com.svg"
                                         class="w-70px mb20 top-30px start-30px p-2 bg-color rounded-10px absolute"
                                         alt="">
-                                    <img src="images/misc/services-3.webp" class="img-fluid" alt="">
+                                    <img src="images/misc/ourservices_renewable-energy-1000X665v3-min.webp"
+                                        class="img-fluid" alt="remarkeable">
                                 </div>
                                 <div class="padding40 bg-color text-light">
                                     <h4>Renewable Energy Integration</h4>
