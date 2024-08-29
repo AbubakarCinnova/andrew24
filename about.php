@@ -76,7 +76,7 @@
                             <div class="row g-4">
                                 <div class="col-6">
                                     <img src="images/misc/Nurse_call_station_750x750.webp"
-                                        class="img-fluid rounded-10 mb-4 wow zoomIn border border-light" alt="">
+                                        class="img-fluid rounded-10 mb-4 wow zoomIn border border-dark" alt="">
                                     <div class="col-12 text-center">
                                         <div class="bg-color-2 text-light px-4 pt30 pb10 rounded-10">
                                             <div class="de_count wow fadeInUp">
@@ -89,7 +89,7 @@
                                 <div class="col-6">
                                     <div class="spacer-double sm-hide"></div>
                                     <div class="col-12 text-center">
-                                        <div class="bg-color text-light px-4 pt30 pb10 rounded-10">
+                                        <div class="bg-color text-light px-4 pt30 pb10 rounded-10 ">
                                             <div class="de_count wow fadeInUp">
                                                 <h3><span class="timer" data-to="99" data-speed="3000"></span>%</h3>
                                                 <h4>Customer Satisfication</h4>
@@ -97,7 +97,7 @@
                                         </div>
                                     </div>
                                     <img src="images/misc/camera_with_pa750x750.webp"
-                                        class="img-fluid rounded-10 mt-4 wow zoomIn" alt="">
+                                        class="img-fluid rounded-10 mt-4 wow zoomIn border border-dark" alt="">
                                 </div>
                             </div>
                         </div>
