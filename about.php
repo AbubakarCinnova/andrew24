@@ -76,7 +76,7 @@
                             <div class="row g-4">
                                 <div class="col-6">
                                     <img src="images/misc/Nurse_call_station_750x750.webp"
-                                        class="img-fluid rounded-10 mb-4 wow zoomIn" alt="">
+                                        class="img-fluid rounded-10 mb-4 wow zoomIn border border-light" alt="">
                                     <div class="col-12 text-center">
                                         <div class="bg-color-2 text-light px-4 pt30 pb10 rounded-10">
                                             <div class="de_count wow fadeInUp">
