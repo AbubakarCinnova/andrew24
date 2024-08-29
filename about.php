@@ -75,7 +75,8 @@
                         <div class="col-lg-6">
                             <div class="row g-4">
                                 <div class="col-6">
-                                    <img src="images/misc/9.webp" class="img-fluid rounded-10 mb-4 wow zoomIn" alt="">
+                                    <img src="images/misc/Nurse_call_station_750x750.webp"
+                                        class="img-fluid rounded-10 mb-4 wow zoomIn" alt="">
                                     <div class="col-12 text-center">
                                         <div class="bg-color-2 text-light px-4 pt30 pb10 rounded-10">
                                             <div class="de_count wow fadeInUp">
@@ -95,7 +96,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <img src="images/misc/8.webp" class="img-fluid rounded-10 mt-4 wow zoomIn" alt="">
+                                    <img src="images/misc/camera_with_pa750x750.webp"
+                                        class="img-fluid rounded-10 mt-4 wow zoomIn" alt="">
                                 </div>
                             </div>
                         </div>
