@@ -141,6 +141,6 @@ header #mainmenu li li a:hover {
     .show-on-scroll.show {
         opacity: 0.3 !important;
         margin-left: 0 !important;
-        left: 16pc !important;
+        left: 16px !important;
     }
 }
