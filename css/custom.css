@@ -139,6 +139,6 @@ header #mainmenu li li a:hover {
 
 @media (max-width:1300px) and (min-width:768px) {
     .show-on-scroll.show {
-        opacity: 0.4 !important;
+        opacity: 0.3 !important;
     }
 }
