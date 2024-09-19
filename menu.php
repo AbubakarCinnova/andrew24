@@ -107,6 +107,8 @@
                                                   <li><a class="menu-item" href="rack-stack.php">Rack and Stack</a></li>
                                                   <li><a class="menu-item" href="smart-fleet.php">Smart Fleet
                                                           Systems</a></li>
+                                                  <li><a class="menu-item" href="smart-building-tech.php">Smart Building
+                                                          Tech</a></li>
 
                                               </ul>
                                           </li>
